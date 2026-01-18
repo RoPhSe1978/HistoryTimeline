@@ -1,1 +1,3153 @@
+[
+    {
+        "name": "Jesus Christ",
+        "description": "central figure of Christianity (6 or 4 BC – AD 30 or 33)",
+        "birth": "-0005-01-01T00:00:00Z",
+        "death": "0033-04-01T00:00:00Z",
+        "sitelinks": 339,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jesus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spas%20vsederzhitel%20sinay%20%28cropped1%29.jpg"
+    },
+    {
+        "name": "Jesus Christ",
+        "description": "central figure of Christianity (6 or 4 BC – AD 30 or 33)",
+        "birth": "-0005-01-01T00:00:00Z",
+        "death": "0030-04-05T00:00:00Z",
+        "sitelinks": 339,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jesus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spas%20vsederzhitel%20sinay%20%28cropped1%29.jpg"
+    },
+    {
+        "name": "William Shakespeare",
+        "description": "English playwright and poet (1564–1616)",
+        "birth": "1564-04-01T00:00:00Z",
+        "death": "1616-05-03T00:00:00Z",
+        "sitelinks": 331,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Shakespeare",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare.jpg"
+    },
+    {
+        "name": "Aristotle",
+        "description": "4th-century BCE Classical Greek philosopher and polymath",
+        "birth": "-0383-01-01T00:00:00Z",
+        "death": "-0321-01-01T00:00:00Z",
+        "sitelinks": 313,
+        "wikipedia": "https://en.wikipedia.org/wiki/Aristotle",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle%20Altemps%20Inv8575.jpg"
+    },
+    {
+        "name": "Confucius",
+        "description": "5th-century BCE Chinese philosopher and politician",
+        "birth": "-0550-01-01T00:00:00Z",
+        "death": "-0478-01-01T00:00:00Z",
+        "sitelinks": 307,
+        "wikipedia": "https://en.wikipedia.org/wiki/Confucius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Confucius%2C%20fresco%20from%20a%20Western%20Han%20tomb%20of%20Dongping%20County%2C%20Shandong%20province%2C%20China.jpg"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "description": "Italian Renaissance polymath (1452−1519)",
+        "birth": "1452-04-24T00:00:00Z",
+        "death": "1519-05-12T00:00:00Z",
+        "sitelinks": 303,
+        "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
+    },
+    {
+        "name": "Isaac Newton",
+        "description": "English mathematician and physicist (1642–1727)",
+        "birth": "1643-01-04T00:00:00Z",
+        "death": "1727-03-31T00:00:00Z",
+        "sitelinks": 303,
+        "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GodfreyKneller-IsaacNewton-1689.jpg"
+    },
+    {
+        "name": "Plato",
+        "description": "4th-century BCE Greek philosopher",
+        "birth": "-0428-01-01T00:00:00Z",
+        "death": "-0348-01-01T00:00:00Z",
+        "sitelinks": 300,
+        "wikipedia": "https://en.wikipedia.org/wiki/Plato",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Silanion%20Musei%20Capitolini%20MC1377.jpg"
+    },
+    {
+        "name": "Napoleon",
+        "description": "French military leader, French Emperor 1804–1814 and again in 1815 (1769–1821)",
+        "birth": "1769-08-15T00:00:00Z",
+        "death": "1821-05-05T00:00:00Z",
+        "sitelinks": 283,
+        "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Muhammad",
+        "description": "Arabian political leader and the founder of Islam (c. 570–632)",
+        "birth": "0571-04-22T00:00:00Z",
+        "death": "0632-06-11T00:00:00Z",
+        "sitelinks": 282,
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed.jpg"
+    },
+    {
+        "name": "Muhammad",
+        "description": "Arabian political leader and the founder of Islam (c. 570–632)",
+        "birth": "0571-04-22T00:00:00Z",
+        "death": "0632-06-11T00:00:00Z",
+        "sitelinks": 282,
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muslim%20depiction%20of%20Muhammad%20-%2017th%20century%20Ottoman%20copy%20from%20the%20%22Edinburgh%20codex%22.jpg"
+    },
+    {
+        "name": "Muhammad",
+        "description": "Arabian political leader and the founder of Islam (c. 570–632)",
+        "birth": "0571-04-22T00:00:00Z",
+        "death": "0632-06-11T00:00:00Z",
+        "sitelinks": 282,
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siyer-i%20Nebi%20158b.jpg"
+    },
+    {
+        "name": "Julius Caesar",
+        "description": "Roman general and dictator",
+        "birth": "-0099-07-01T00:00:00Z",
+        "death": "-0043-03-13T00:00:00Z",
+        "sitelinks": 281,
+        "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Julio%20C%C3%A9sar%20%2826724093101%29%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Socrates",
+        "description": "5th-century BCE Greek philosopher",
+        "birth": "-0469-01-01T00:00:00Z",
+        "death": "-0398-02-10T00:00:00Z",
+        "sitelinks": 276,
+        "wikipedia": "https://en.wikipedia.org/wiki/Socrates",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg"
+    },
+    {
+        "name": "Johann Wolfgang von Goethe",
+        "description": "German writer, artist, natural scientist and politician (1749–1832)",
+        "birth": "1749-08-28T00:00:00Z",
+        "death": "1832-03-22T00:00:00Z",
+        "sitelinks": 273,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goethe%20%28Stieler%201828%29.jpg"
+    },
+    {
+        "name": "Ludwig van Beethoven",
+        "description": "German composer (1770–1827)",
+        "birth": "1770-12-16T00:00:00Z",
+        "death": "1827-03-26T00:00:00Z",
+        "sitelinks": 268,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beethoven.jpg"
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Austrian composer of the Classical period (1756–1791)",
+        "birth": "1756-01-27T00:00:00Z",
+        "death": "1791-12-05T00:00:00Z",
+        "sitelinks": 267,
+        "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart%201.jpg"
+    },
+    {
+        "name": "The Buddha",
+        "description": "Indian philosopher and the founder of Buddhism (623 or 563 BCE – 543 or 483 BCE)",
+        "birth": "-0500-01-01T00:00:00Z",
+        "death": "-0500-01-01T00:00:00Z",
+        "sitelinks": 267,
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Buddha",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buddha%20in%20Sarnath%20Museum%20%28Dhammajak%20Mutra%29.jpg"
+    },
+    {
+        "name": "Q1067",
+        "description": "Florentine poet, writer, and philosopher (c. 1265–1321)",
+        "birth": "1265-01-01T00:00:00Z",
+        "death": "1321-09-22T00:00:00Z",
+        "sitelinks": 266,
+        "wikipedia": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Dante.jpg"
+    },
+    {
+        "name": "Galileo Galilei",
+        "description": "Italian polymath (1564–1642)",
+        "birth": "1564-02-25T00:00:00Z",
+        "death": "1642-01-08T00:00:00Z",
+        "sitelinks": 265,
+        "wikipedia": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Galileo.arp.300pix.jpg"
+    },
+    {
+        "name": "George Washington",
+        "description": "Founding Father and first U.S. president (1789–1797)",
+        "birth": "1732-02-22T00:00:00Z",
+        "death": "1799-12-14T00:00:00Z",
+        "sitelinks": 264,
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20Williamstown%20Portrait%20of%20George%20Washington.jpg"
+    },
+    {
+        "name": "Alexander the Great",
+        "description": "king of Macedonia and conqueror of Achaemenid Persia (356–323 BC)",
+        "birth": "-0355-07-15T00:00:00Z",
+        "death": "-0322-06-05T00:00:00Z",
+        "sitelinks": 258,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20the%20Great%20mosaic%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Michelangelo",
+        "description": "Italian artist and architect (1475–1564)",
+        "birth": "1475-03-15T00:00:00Z",
+        "death": "1564-02-28T00:00:00Z",
+        "sitelinks": 257,
+        "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Daniele%20da%20Volterra%20%28dettaglio%29.jpg"
+    },
+    {
+        "name": "Johann Sebastian Bach",
+        "description": "German composer (1685–1750)",
+        "birth": "1685-03-31T00:00:00Z",
+        "death": "1750-07-28T00:00:00Z",
+        "sitelinks": 256,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20Bach.png"
+    },
+    {
+        "name": "Voltaire",
+        "description": "French writer, historian and philosopher (1694–1778)",
+        "birth": "1694-11-21T00:00:00Z",
+        "death": "1778-05-30T00:00:00Z",
+        "sitelinks": 253,
+        "wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Largilli%C3%A8re%20-%20Portrait%20de%20Voltaire%20%281694-1778%29%20en%201718%20-%20P208%20-%20Mus%C3%A9e%20Carnavalet%20-%202.jpg"
+    },
+    {
+        "name": "Martin Luther",
+        "description": "German priest and theologian (1483–1546)",
+        "birth": "1483-11-19T00:00:00Z",
+        "death": "1546-02-28T00:00:00Z",
+        "sitelinks": 253,
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Martin%20Luther%2C%201528%20%28Veste%20Coburg%29.jpg"
+    },
+    {
+        "name": "Immanuel Kant",
+        "description": "German philosopher (1724–1804)",
+        "birth": "1724-04-22T00:00:00Z",
+        "death": "1804-02-12T00:00:00Z",
+        "sitelinks": 249,
+        "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20-%20Gemaelde%202.jpg"
+    },
+    {
+        "name": "René Descartes",
+        "description": "French philosopher, mathematician, and scientist (1596–1650)",
+        "birth": "1596-03-31T00:00:00Z",
+        "death": "1650-02-11T00:00:00Z",
+        "sitelinks": 245,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Portret%20van%20Ren%C3%A9%20Descartes.jpg"
+    },
+    {
+        "name": "Augustus",
+        "description": "first emperor of the Roman Empire and founder of the Julio-Claudian dynasty",
+        "birth": "-0062-09-21T00:00:00Z",
+        "death": "0014-08-17T00:00:00Z",
+        "sitelinks": 243,
+        "wikipedia": "https://en.wikipedia.org/wiki/Augustus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustus%20of%20Prima%20Porta%20%28inv.%202290%29.jpg"
+    },
+    {
+        "name": "Virgil",
+        "description": "Roman poet (1st century BC)",
+        "birth": "-0069-10-13T00:00:00Z",
+        "death": "-0018-09-19T00:00:00Z",
+        "sitelinks": 242,
+        "wikipedia": "https://en.wikipedia.org/wiki/Virgil",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta%20di%20Posillipo5%20%28crop%29.jpg"
+    },
+    {
+        "name": "Archimedes",
+        "description": "Greek mathematician and physicist (c. 287 – c. 212 BC)",
+        "birth": "-0286-01-01T00:00:00Z",
+        "death": "-0211-01-01T00:00:00Z",
+        "sitelinks": 241,
+        "wikipedia": "https://en.wikipedia.org/wiki/Archimedes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20erudito%20%28%C2%BFArqu%C3%ADmedes%3F%29%2C%20por%20Domenico%20Fetti.jpg"
+    },
+    {
+        "name": "Miguel de Cervantes",
+        "description": "Spanish novelist, poet, and playwright (1547-1616)",
+        "birth": "1547-10-09T00:00:00Z",
+        "death": "1616-04-22T00:00:00Z",
+        "sitelinks": 241,
+        "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cervantes%20J%C3%A1uregui.jpg"
+    },
+    {
+        "name": "Christopher Columbus",
+        "description": "Italian navigator, explorer, and colonist (1451–1506)",
+        "birth": "1451-01-01T00:00:00Z",
+        "death": "1506-05-30T00:00:00Z",
+        "sitelinks": 240,
+        "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo%20del%20Ghirlandaio%20-%20Ritratto%20di%20Cristoforo%20Colombo%20%281520%29.jpg"
+    },
+    {
+        "name": "Alexander Pushkin",
+        "description": "Russian poet, playwright, and novelist (1799–1837)",
+        "birth": "1799-06-06T00:00:00Z",
+        "death": "1837-02-10T00:00:00Z",
+        "sitelinks": 237,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D1%8D%D1%82%D0%B0%20%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Jean-Jacques Rousseau",
+        "description": "Genevan philosopher, writer, and composer (1712–1778)",
+        "birth": "1712-06-28T00:00:00Z",
+        "death": "1778-07-02T00:00:00Z",
+        "sitelinks": 227,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Rousseau%20%28painted%20portrait%29.jpg"
+    },
+    {
+        "name": "Augustine of Hippo",
+        "description": "Christian theologian, philosopher, and saint (354–430)",
+        "birth": "0354-11-14T00:00:00Z",
+        "death": "0430-08-29T00:00:00Z",
+        "sitelinks": 222,
+        "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustine%20Lateran.jpg"
+    },
+    {
+        "name": "Augustine of Hippo",
+        "description": "Christian theologian, philosopher, and saint (354–430)",
+        "birth": "0354-11-14T00:00:00Z",
+        "death": "0430-08-29T00:00:00Z",
+        "sitelinks": 222,
+        "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20Palatina%20%28Palermo%29%2016%2007%202019%2014.jpg"
+    },
+    {
+        "name": "Niccolò Machiavelli",
+        "description": "Italian diplomat and political and military theorist (1469–1527)",
+        "birth": "1469-05-12T00:00:00Z",
+        "death": "1527-07-01T00:00:00Z",
+        "sitelinks": 222,
+        "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Niccol%C3%B2%20Machiavelli%20by%20Santi%20di%20Tito.jpg"
+    },
+    {
+        "name": "Thomas Jefferson",
+        "description": "president of the United States from 1801 to 1809",
+        "birth": "1743-04-13T00:00:00Z",
+        "death": "1826-07-04T00:00:00Z",
+        "sitelinks": 221,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidential%20portrait%20of%20Thomas%20Jefferson%20%28by%20Rembrandt%20Peale%2C%201800%29%28cropped%29.jpg"
+    },
+    {
+        "name": "Molière",
+        "description": "French playwright and actor (1622–1673)",
+        "birth": "1622-01-15T00:00:00Z",
+        "death": "1673-02-17T00:00:00Z",
+        "sitelinks": 220,
+        "wikipedia": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Mignard%20-%20Portrait%20de%20Jean-Baptiste%20Poquelin%20dit%20Moli%C3%A8re%20%281622-1673%29%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Adam Smith",
+        "description": "Scottish moral philosopher and political economist (1723–1790)",
+        "birth": "1723-06-01T00:00:00Z",
+        "death": "1790-07-17T00:00:00Z",
+        "sitelinks": 216,
+        "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AdamSmith.jpg"
+    },
+    {
+        "name": "Benjamin Franklin",
+        "description": "American polymath and statesman (1706–1790)",
+        "birth": "1706-01-17T00:00:00Z",
+        "death": "1790-04-17T00:00:00Z",
+        "sitelinks": 215,
+        "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Lord Byron",
+        "description": "English Romantic poet and lyricist (1788–1824)",
+        "birth": "1788-01-22T00:00:00Z",
+        "death": "1824-04-19T00:00:00Z",
+        "sitelinks": 214,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Byron%201813%20by%20Phillips.jpg"
+    },
+    {
+        "name": "Nicolaus Copernicus",
+        "description": "Polish mathematician and astronomer (1473–1543)",
+        "birth": "1473-02-28T00:00:00Z",
+        "death": "1543-06-03T00:00:00Z",
+        "sitelinks": 210,
+        "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus%20Kopernikus%20MOT.jpg"
+    },
+    {
+        "name": "Carl Linnaeus",
+        "description": "Swedish botanist, physician, and zoologist (1707–1778)",
+        "birth": "1707-05-23T00:00:00Z",
+        "death": "1778-01-10T00:00:00Z",
+        "sitelinks": 210,
+        "wikipedia": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Linn%C3%A9.jpg"
+    },
+    {
+        "name": "Laozi",
+        "description": "6th-century BC semi-legendary Chinese philosopher, founder of Taoism",
+        "birth": "-0579-01-01T00:00:00Z",
+        "death": "-0500-01-01T00:00:00Z",
+        "sitelinks": 209,
+        "wikipedia": "https://en.wikipedia.org/wiki/Laozi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Lu-Laozi%20Riding%20an%20Ox%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Marco Polo",
+        "description": "Venetian explorer and merchant who travelled through Asia (1254–1324)",
+        "birth": "1254-09-22T00:00:00Z",
+        "death": "1324-01-16T00:00:00Z",
+        "sitelinks": 209,
+        "wikipedia": "https://en.wikipedia.org/wiki/Marco_Polo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Polo%20Mosaic%20from%20Palazzo%20Tursi.jpg"
+    },
+    {
+        "name": "Sophocles",
+        "description": "ancient Greek playwright",
+        "birth": "-0495-01-01T00:00:00Z",
+        "death": "-0405-01-01T00:00:00Z",
+        "sitelinks": 208,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sophocles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny%20Carlsberg%20Glyptothek%20-%20Sophokles.jpg"
+    },
+    {
+        "name": "Pythagoras",
+        "description": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+        "birth": "-0582-01-01T00:00:00Z",
+        "death": "-0490-01-01T00:00:00Z",
+        "sitelinks": 207,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg"
+    },
+    {
+        "name": "Genghis Khan",
+        "description": "founder and first khan of the Mongol Empire (1162–1227)",
+        "birth": "1162-06-07T00:00:00Z",
+        "death": "1227-09-01T00:00:00Z",
+        "sitelinks": 205,
+        "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumGenghisPortrait.jpg"
+    },
+    {
+        "name": "Genghis Khan",
+        "description": "founder and first khan of the Mongol Empire (1162–1227)",
+        "birth": "1162-06-07T00:00:00Z",
+        "death": "1227-08-25T00:00:00Z",
+        "sitelinks": 205,
+        "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumGenghisPortrait.jpg"
+    },
+    {
+        "name": "John Locke",
+        "description": "English philosopher and physician (1632–1704)",
+        "birth": "1632-09-08T00:00:00Z",
+        "death": "1704-11-08T00:00:00Z",
+        "sitelinks": 204,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Locke",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnLocke.png"
+    },
+    {
+        "name": "Gottfried Wilhelm Leibniz",
+        "description": "German mathematician and philosopher (1646–1716)",
+        "birth": "1646-07-01T00:00:00Z",
+        "death": "1716-11-14T00:00:00Z",
+        "sitelinks": 203,
+        "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Bernhard%20Francke%20-%20Bildnis%20des%20Philosophen%20Leibniz%20%28ca.%201695%29.jpg"
+    },
+    {
+        "name": "Thomas Aquinas",
+        "description": "Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274)",
+        "birth": "1225-01-01T00:00:00Z",
+        "death": "1274-03-14T00:00:00Z",
+        "sitelinks": 203,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St-thomas-aquinasFXD.jpg"
+    },
+    {
+        "name": "Cicero",
+        "description": "Roman statesman, lawyer, orator, and philosopher (106–43 BC)",
+        "birth": "-0106-12-31T00:00:00Z",
+        "death": "-0042-12-05T00:00:00Z",
+        "sitelinks": 201,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Cicero%20%281st-cent.%20BC%29%20-%20Palazzo%20Nuovo%20-%20Musei%20Capitolini%20-%20Rome%202016.jpg"
+    },
+    {
+        "name": "Rembrandt",
+        "description": "Dutch painter and printmaker (1606–1669)",
+        "birth": "1606-07-15T00:00:00Z",
+        "death": "1669-10-04T00:00:00Z",
+        "sitelinks": 201,
+        "wikipedia": "https://en.wikipedia.org/wiki/Rembrandt",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Euclid",
+        "description": "ancient Greek mathematician (fl. 300 BC)",
+        "birth": "-0333-01-01T00:00:00Z",
+        "death": "-0284-01-01T00:00:00Z",
+        "sitelinks": 199,
+        "wikipedia": "https://en.wikipedia.org/wiki/Euclid",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Euklid2.jpg"
+    },
+    {
+        "name": "Matsuo Bashō",
+        "description": "Japanese poet (1644–1694)",
+        "birth": "1644-01-01T00:00:00Z",
+        "death": "1694-11-28T00:00:00Z",
+        "sitelinks": 197,
+        "wikipedia": "https://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basho%20by%20Buson.jpg"
+    },
+    {
+        "name": "Jane Austen",
+        "description": "English novelist (1775–1817)",
+        "birth": "1775-12-16T00:00:00Z",
+        "death": "1817-07-18T00:00:00Z",
+        "sitelinks": 196,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CassandraAusten-JaneAusten%28c.1810%29%20hires.jpg"
+    },
+    {
+        "name": "Carl Friedrich Gauss",
+        "description": "German mathematician and physicist (1777–1855)",
+        "birth": "1777-04-30T00:00:00Z",
+        "death": "1855-02-23T00:00:00Z",
+        "sitelinks": 196,
+        "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20Gauss.jpg"
+    },
+    {
+        "name": "Qin Shi Huang",
+        "description": "first emperor of Qin Dynasty",
+        "birth": "-0258-01-01T00:00:00Z",
+        "death": "-0209-01-01T00:00:00Z",
+        "sitelinks": 195,
+        "wikipedia": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg"
+    },
+    {
+        "name": "Qin Shi Huang",
+        "description": "first emperor of Qin Dynasty",
+        "birth": "-0258-01-01T00:00:00Z",
+        "death": "-0209-01-01T00:00:00Z",
+        "sitelinks": 195,
+        "wikipedia": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuangdi3.jpg"
+    },
+    {
+        "name": "Herodotus",
+        "description": "Greek historian and geographer (c.484–c.425 BC)",
+        "birth": "-0483-01-01T00:00:00Z",
+        "death": "-0424-01-01T00:00:00Z",
+        "sitelinks": 194,
+        "wikipedia": "https://en.wikipedia.org/wiki/Herodotus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marble%20bust%20of%20Herodotos%20MET%20DT11742%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Ovid",
+        "description": "Roman poet (43 BC – 17/18 AD)",
+        "birth": "-0042-03-18T00:00:00Z",
+        "death": "0017-01-01T00:00:00Z",
+        "sitelinks": 194,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ovid",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ovid%20by%20an%20anonymous%20sculptor.jpg"
+    },
+    {
+        "name": "Blaise Pascal",
+        "description": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623–1662)",
+        "birth": "1623-06-19T00:00:00Z",
+        "death": "1662-08-19T00:00:00Z",
+        "sitelinks": 193,
+        "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Pascal%20Versailles.JPG"
+    },
+    {
+        "name": "Paul the Apostle",
+        "description": "Early Christian apostle and missionary (c. AD 5 – c. 64/65)",
+        "birth": "0005-01-01T00:00:00Z",
+        "death": "0066-01-01T00:00:00Z",
+        "sitelinks": 192,
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_the_Apostle",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Francesco%20Barbieri%20-%20Saint%20Paul.jpg"
+    },
+    {
+        "name": "Ferdinand Magellan",
+        "description": "Portuguese explorer in the service of Spain",
+        "birth": "1480-01-01T00:00:00Z",
+        "death": "1521-05-07T00:00:00Z",
+        "sitelinks": 192,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hernando%20de%20Magallanes.jpg"
+    },
+    {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "description": "German philosopher and theologian (1770–1831)",
+        "birth": "1770-08-27T00:00:00Z",
+        "death": "1831-11-14T00:00:00Z",
+        "sitelinks": 190,
+        "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1831%20Schlesinger%20Philosoph%20Georg%20Friedrich%20Wilhelm%20Hegel%20anagoria.JPG"
+    },
+    {
+        "name": "Li Bai",
+        "description": "Classical Chinese poet of the Tang dynasty (701–762)",
+        "birth": "0701-05-23T00:00:00Z",
+        "death": "0762-12-04T00:00:00Z",
+        "sitelinks": 190,
+        "wikipedia": "https://en.wikipedia.org/wiki/Li_Bai",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-14-%E5%94%90%E7%BF%B0%E6%9E%97%E4%BE%9B%E5%A5%89%E6%9D%8E%E7%99%BD.jpg"
+    },
+    {
+        "name": "Avicenna",
+        "description": "Persian polymath, physician and philosopher (c. 980–1037)",
+        "birth": "0980-01-01T00:00:00Z",
+        "death": "1037-06-24T00:00:00Z",
+        "sitelinks": 189,
+        "wikipedia": "https://en.wikipedia.org/wiki/Avicenna",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pursina.jpg"
+    },
+    {
+        "name": "Raphael",
+        "description": "Italian painter and architect (1483–1520)",
+        "birth": "1483-04-15T00:00:00Z",
+        "death": "1520-04-17T00:00:00Z",
+        "sitelinks": 189,
+        "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    },
+    {
+        "name": "Raphael",
+        "description": "Italian painter and architect (1483–1520)",
+        "birth": "1483-04-15T00:00:00Z",
+        "death": "1520-04-16T00:00:00Z",
+        "sitelinks": 189,
+        "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    },
+    {
+        "name": "Raphael",
+        "description": "Italian painter and architect (1483–1520)",
+        "birth": "1483-04-06T00:00:00Z",
+        "death": "1520-04-17T00:00:00Z",
+        "sitelinks": 189,
+        "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    },
+    {
+        "name": "Raphael",
+        "description": "Italian painter and architect (1483–1520)",
+        "birth": "1483-04-06T00:00:00Z",
+        "death": "1520-04-16T00:00:00Z",
+        "sitelinks": 189,
+        "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    },
+    {
+        "name": "Joan of Arc",
+        "description": "French folk heroine (1412–1431), military leader who crowned Charles VII and Roman Catholic saint, canonized 500 years after her death",
+        "birth": "1412-01-01T00:00:00Z",
+        "death": "1431-06-08T00:00:00Z",
+        "sitelinks": 187,
+        "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Contemporaine%20afb%20jeanne%20d%20arc.png"
+    },
+    {
+        "name": "Francis Bacon",
+        "description": "English philosopher and statesman (1561–1626)",
+        "birth": "1561-02-01T00:00:00Z",
+        "death": "1626-04-19T00:00:00Z",
+        "sitelinks": 186,
+        "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Somer%20Francis%20Bacon.jpg"
+    },
+    {
+        "name": "Leonhard Euler",
+        "description": "Swiss mathematician, physicist, and engineer (1707–1783)",
+        "birth": "1707-04-15T00:00:00Z",
+        "death": "1783-09-18T00:00:00Z",
+        "sitelinks": 185,
+        "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler.jpg"
+    },
+    {
+        "name": "Charlemagne",
+        "description": "king of Franks, regarded as the first Holy Roman Emperor (747–814)",
+        "birth": "0748-04-06T00:00:00Z",
+        "death": "0814-02-01T00:00:00Z",
+        "sitelinks": 185,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg"
+    },
+    {
+        "name": "Charlemagne",
+        "description": "king of Franks, regarded as the first Holy Roman Emperor (747–814)",
+        "birth": "0742-04-14T00:00:00Z",
+        "death": "0814-02-01T00:00:00Z",
+        "sitelinks": 185,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg"
+    },
+    {
+        "name": "Charlemagne",
+        "description": "king of Franks, regarded as the first Holy Roman Emperor (747–814)",
+        "birth": "0742-04-06T00:00:00Z",
+        "death": "0814-02-01T00:00:00Z",
+        "sitelinks": 185,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg"
+    },
+    {
+        "name": "Albrecht Dürer",
+        "description": "German painter, printmaker, mathematician, and theorist (1471–1528)",
+        "birth": "1471-05-30T00:00:00Z",
+        "death": "1528-04-16T00:00:00Z",
+        "sitelinks": 184,
+        "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg"
+    },
+    {
+        "name": "John Adams",
+        "description": "Founding Father, U.S. president from 1797 to 1801",
+        "birth": "1735-10-30T00:00:00Z",
+        "death": "1826-07-04T00:00:00Z",
+        "sitelinks": 184,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Adams%20A18236.jpg"
+    },
+    {
+        "name": "Louis XIV of France",
+        "description": "King of France from 1643 to 1715 (1638–1715)",
+        "birth": "1638-09-05T00:00:00Z",
+        "death": "1715-09-01T00:00:00Z",
+        "sitelinks": 181,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIV%20of%20France.jpg"
+    },
+    {
+        "name": "Johannes Kepler",
+        "description": "German mathematician and astronomer (1571–1630)",
+        "birth": "1572-01-06T00:00:00Z",
+        "death": "1630-11-15T00:00:00Z",
+        "sitelinks": 181,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Kepler%20by%20Hans%20von%20Aachen.jpg"
+    },
+    {
+        "name": "Friedrich Schiller",
+        "description": "German playwright, poet, philosopher and historian (1759–1805)",
+        "birth": "1759-11-10T00:00:00Z",
+        "death": "1805-05-09T00:00:00Z",
+        "sitelinks": 180,
+        "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Schiller%20by%20Ludovike%20Simanowiz.jpg"
+    },
+    {
+        "name": "James Cook",
+        "description": "British explorer, cartographer and naval officer (1728–1779)",
+        "birth": "1728-10-27T00:00:00Z",
+        "death": "1779-02-14T00:00:00Z",
+        "sitelinks": 179,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Captainjamescookportrait.jpg"
+    },
+    {
+        "name": "Francisco Goya",
+        "description": "Spanish painter and printmaker (1746–1828)",
+        "birth": "1746-03-30T00:00:00Z",
+        "death": "1828-04-16T00:00:00Z",
+        "sitelinks": 179,
+        "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Goya",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
+    },
+    {
+        "name": "Elizabeth I of England",
+        "description": "Queen of England and Ireland from 1558 to 1603",
+        "birth": "1533-09-17T00:00:00Z",
+        "death": "1603-04-03T00:00:00Z",
+        "sitelinks": 179,
+        "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth1England.jpg"
+    },
+    {
+        "name": "Peter the Great",
+        "description": "Tsar/Emperor of Russia from 1682 to 1725",
+        "birth": "1672-06-09T00:00:00Z",
+        "death": "1725-02-08T00:00:00Z",
+        "sitelinks": 178,
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%A8s%20J.-M.%20Nattier%2C%20Portrait%20de%20Pierre%20Ier%20%28mus%C3%A9e%20de%20l%E2%80%99Ermitage%29.jpg"
+    },
+    {
+        "name": "Vasco da Gama",
+        "description": "Portuguese explorer (c. 1460s – 1524)",
+        "birth": "1469-01-01T00:00:00Z",
+        "death": "1525-01-03T00:00:00Z",
+        "sitelinks": 177,
+        "wikipedia": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignoto%20portoghese%2C%20ritratto%20di%20un%20cavaliere%20dell%27ordine%20di%20cristo%2C%201525-50%20ca.%2002.jpg"
+    },
+    {
+        "name": "Vasco da Gama",
+        "description": "Portuguese explorer (c. 1460s – 1524)",
+        "birth": "1460-01-01T00:00:00Z",
+        "death": "1525-01-03T00:00:00Z",
+        "sitelinks": 177,
+        "wikipedia": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignoto%20portoghese%2C%20ritratto%20di%20un%20cavaliere%20dell%27ordine%20di%20cristo%2C%201525-50%20ca.%2002.jpg"
+    },
+    {
+        "name": "Michael Faraday",
+        "description": "British scientist (1791–1867)",
+        "birth": "1791-09-22T00:00:00Z",
+        "death": "1867-08-25T00:00:00Z",
+        "sitelinks": 177,
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/M%20Faraday%20Th%20Phillips%20oil%201842.jpg"
+    },
+    {
+        "name": "Johannes Gutenberg",
+        "description": "German inventor and craftsman (1400-1468)",
+        "birth": "1400-01-01T00:00:00Z",
+        "death": "1468-01-01T00:00:00Z",
+        "sitelinks": 176,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg.jpg"
+    },
+    {
+        "name": "Benedictus de Spinoza",
+        "description": "Dutch philosopher (1632–1677)",
+        "birth": "1632-11-24T00:00:00Z",
+        "death": "1677-02-21T00:00:00Z",
+        "sitelinks": 176,
+        "wikipedia": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spinoza.jpg"
+    },
+    {
+        "name": "Ashoka",
+        "description": "Mauryan emperor from 268 to 232 BCE",
+        "birth": "-0303-01-01T00:00:00Z",
+        "death": "-0231-01-01T00:00:00Z",
+        "sitelinks": 174,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ashoka",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashoka%27s%20visit%20to%20the%20Ramagrama%20stupa%20Sanchi%20Stupa%201%20Southern%20gateway.jpg"
+    },
+    {
+        "name": "Marcus Aurelius",
+        "description": "16th Roman Emperor from 161 to 180 and Stoic philosopher",
+        "birth": "0121-04-25T00:00:00Z",
+        "death": "0180-03-16T00:00:00Z",
+        "sitelinks": 174,
+        "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Aurelius%20Louvre%20MR561%20n02.jpg"
+    },
+    {
+        "name": "Simón Bolívar",
+        "description": "Venezuelan statesman and military officer (1783–1830)",
+        "birth": "1783-07-24T00:00:00Z",
+        "death": "1830-12-17T00:00:00Z",
+        "sitelinks": 173,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg"
+    },
+    {
+        "name": "Geoffrey Chaucer",
+        "description": "14th century English poet and author (1343–1400)",
+        "birth": "1343-01-01T00:00:00Z",
+        "death": "1400-11-03T00:00:00Z",
+        "sitelinks": 173,
+        "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Geoffrey%20Chaucer%20%284671380%29%20%28cropped%29%2002.jpg"
+    },
+    {
+        "name": "Katsushika Hokusai",
+        "description": "Japanese artist (1760-1849)",
+        "birth": "1760-10-31T00:00:00Z",
+        "death": "1849-05-10T00:00:00Z",
+        "sitelinks": 172,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hokusai",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
+    },
+    {
+        "name": "Honoré de Balzac",
+        "description": "French novelist and playwright (1799–1850)",
+        "birth": "1799-05-20T00:00:00Z",
+        "death": "1850-08-18T00:00:00Z",
+        "sitelinks": 172,
+        "wikipedia": "https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20de%20Balzac%20%281842%29%20detail.jpg"
+    },
+    {
+        "name": "Arthur Schopenhauer",
+        "description": "German philosopher (1788–1860)",
+        "birth": "1788-02-22T00:00:00Z",
+        "death": "1860-09-21T00:00:00Z",
+        "sitelinks": 172,
+        "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Schopenhauer%20by%20J%20Sch%C3%A4fer%2C%201859b.jpg"
+    },
+    {
+        "name": "James Madison",
+        "description": "President of the United States from 1809 to 1817",
+        "birth": "1751-03-16T00:00:00Z",
+        "death": "1836-06-28T00:00:00Z",
+        "sitelinks": 170,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Madison.jpg"
+    },
+    {
+        "name": "Cleopatra",
+        "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
+        "birth": "-0068-01-11T00:00:00Z",
+        "death": "-0029-08-10T00:00:00Z",
+        "sitelinks": 169,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
+    },
+    {
+        "name": "Hippocrates",
+        "description": "Greek physician (c. 460 – c. 370 BC)",
+        "birth": "-0459-01-01T00:00:00Z",
+        "death": "-0369-01-01T00:00:00Z",
+        "sitelinks": 169,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hippocrates",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippocrates%20rubens.jpg"
+    },
+    {
+        "name": "Franz Schubert",
+        "description": "Austrian composer (1797–1828)",
+        "birth": "1797-01-31T00:00:00Z",
+        "death": "1828-11-19T00:00:00Z",
+        "sitelinks": 167,
+        "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Schubert%20by%20Wilhelm%20August%20Rieder%201875%20larger%20version.png"
+    },
+    {
+        "name": "Peter Paul Rubens",
+        "description": "Flemish painter (1577–1640)",
+        "birth": "1577-07-08T00:00:00Z",
+        "death": "1640-05-30T00:00:00Z",
+        "sitelinks": 167,
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Heinrich Heine",
+        "description": "German poet, writer and literary critic (1797–1856)",
+        "birth": "1797-12-13T00:00:00Z",
+        "death": "1856-02-17T00:00:00Z",
+        "sitelinks": 167,
+        "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Heine.PNG"
+    },
+    {
+        "name": "Horace",
+        "description": "Roman lyric poet (65 BC – 8 BC)",
+        "birth": "-0064-12-06T00:00:00Z",
+        "death": "-0007-11-25T00:00:00Z",
+        "sitelinks": 166,
+        "wikipedia": "https://en.wikipedia.org/wiki/Horace",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quintus%20Horatius%20Flaccus.jpg"
+    },
+    {
+        "name": "Aesop",
+        "description": "ancient Greek storyteller (619 BC–563 BC)",
+        "birth": "-0619-01-01T00:00:00Z",
+        "death": "-0563-01-01T00:00:00Z",
+        "sitelinks": 165,
+        "wikipedia": "https://en.wikipedia.org/wiki/Aesop",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aesop%20pushkin01.jpg"
+    },
+    {
+        "name": "Hernán Cortés",
+        "description": "Spanish conquistador",
+        "birth": "1485-01-01T00:00:00Z",
+        "death": "1547-12-12T00:00:00Z",
+        "sitelinks": 164,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C3%A1n%20Cort%C3%A9s.jpg"
+    },
+    {
+        "name": "Omar Khayyám",
+        "description": "Persian mathematician and poet (1048–1131)",
+        "birth": "1048-05-24T00:00:00Z",
+        "death": "1131-12-11T00:00:00Z",
+        "sitelinks": 164,
+        "wikipedia": "https://en.wikipedia.org/wiki/Omar_Khayyam",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Khayyam2.JPG"
+    },
+    {
+        "name": "Akbar",
+        "description": "the third and greatest Mughal emperor from 1556 to 1605",
+        "birth": "1542-10-25T00:00:00Z",
+        "death": "1605-10-15T00:00:00Z",
+        "sitelinks": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Akbar",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Contemporary%20seated%20portrait%20of%20Akbar%2C%201605.jpg"
+    },
+    {
+        "name": "John Quincy Adams",
+        "description": "President of the United States from 1825 to 1829",
+        "birth": "1767-07-11T00:00:00Z",
+        "death": "1848-02-23T00:00:00Z",
+        "sitelinks": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Q.%20Adams-edit.jpg"
+    },
+    {
+        "name": "Andrew Jackson",
+        "description": "president of the United States from 1829 to 1837",
+        "birth": "1767-03-15T00:00:00Z",
+        "death": "1845-06-08T00:00:00Z",
+        "sitelinks": 163,
+        "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20jackson%20head.jpg"
+    },
+    {
+        "name": "Diego Velázquez",
+        "description": "Spanish painter (1599-1660)",
+        "birth": "1599-06-06T00:00:00Z",
+        "death": "1660-08-06T00:00:00Z",
+        "sitelinks": 162,
+        "wikipedia": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
+    },
+    {
+        "name": "Antonio Vivaldi",
+        "description": "Italian composer and violinist (1678-1741)",
+        "birth": "1678-03-04T00:00:00Z",
+        "death": "1741-07-28T00:00:00Z",
+        "sitelinks": 162,
+        "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Onbekend%20-%20Antonio%20Vivaldi%20-%20Bologna%20Museo%20Internationale%20e%20biblioteca%20della%20musica%20di%20bologna%2028-04-2012%209-21-050.jpg"
+    },
+    {
+        "name": "Sun Tzu",
+        "description": "6th century BCE Chinese general and military strategist",
+        "birth": "-0543-01-01T00:00:00Z",
+        "death": "-0469-01-01T00:00:00Z",
+        "sitelinks": 162,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sun_Tzu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg"
+    },
+    {
+        "name": "Sun Tzu",
+        "description": "6th century BCE Chinese general and military strategist",
+        "birth": "-0543-01-01T00:00:00Z",
+        "death": "-0495-01-01T00:00:00Z",
+        "sitelinks": 162,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sun_Tzu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg"
+    },
+    {
+        "name": "Petrarch",
+        "description": "Italian scholar and poet (1304-1374)",
+        "birth": "1304-07-28T00:00:00Z",
+        "death": "1374-07-27T00:00:00Z",
+        "sitelinks": 161,
+        "wikipedia": "https://en.wikipedia.org/wiki/Petrarch",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Altichiero%2C%20ritratto%20di%20Francesco%20Petrarca.jpg"
+    },
+    {
+        "name": "Al-Khwarizmi",
+        "description": "9th-century Persian mathematician and astronomer",
+        "birth": "0780-01-01T00:00:00Z",
+        "death": "0850-01-01T00:00:00Z",
+        "sitelinks": 161,
+        "wikipedia": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20-%20Ciudad%20Universitaria%2C%20Monumento%20a%20Muhammad%20al-Juarismi%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Ibn Khaldun",
+        "description": "Arab historiographer and historian",
+        "birth": "1332-06-04T00:00:00Z",
+        "death": "1406-03-26T00:00:00Z",
+        "sitelinks": 161,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Ibn%20Khaldun%20%28Casbah%20of%20Bejaia%2C%20Algeria%29.jpg"
+    },
+    {
+        "name": "Hafez",
+        "description": "Persian poet and mystic (1325–1389)",
+        "birth": "1325-01-01T00:00:00Z",
+        "death": "1389-01-01T00:00:00Z",
+        "sitelinks": 161,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hafez",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Shams%20al-Din%20Hafez.jpg"
+    },
+    {
+        "name": "William Blake",
+        "description": "English poet and artist (1757–1827)",
+        "birth": "1757-11-28T00:00:00Z",
+        "death": "1827-08-12T00:00:00Z",
+        "sitelinks": 161,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Blake",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
+    },
+    {
+        "name": "Ibn Battuta",
+        "description": "14th century Muslim Maghrebi scholar and explorer",
+        "birth": "1304-03-03T00:00:00Z",
+        "death": "1368-01-01T00:00:00Z",
+        "sitelinks": 160,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Battuta",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20Battuta%20Mall%20on%202%20June%202007%20Pict%203.jpg"
+    },
+    {
+        "name": "Thales",
+        "description": "ancient Greek philosopher and mathematician",
+        "birth": "-0624-01-01T00:00:00Z",
+        "death": "-0545-01-01T00:00:00Z",
+        "sitelinks": 160,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Illustrerad%20Verldshistoria%20band%20I%20Ill%20107.svg"
+    },
+    {
+        "name": "Jonathan Swift",
+        "description": "Anglo-Irish satirist and essayist (1667–1745)",
+        "birth": "1667-11-30T00:00:00Z",
+        "death": "1745-10-19T00:00:00Z",
+        "sitelinks": 160,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Swift%20by%20Charles%20Jervas%20detail.jpg"
+    },
+    {
+        "name": "James Watt",
+        "description": "British engineer (1736–1819)",
+        "birth": "1736-01-19T00:00:00Z",
+        "death": "1819-08-25T00:00:00Z",
+        "sitelinks": 158,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Watt",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Watt%20by%20Henry%20Howard.jpg"
+    },
+    {
+        "name": "Abu Nuwas",
+        "description": "8th-century classical Arabic poet",
+        "birth": "0762-01-01T00:00:00Z",
+        "death": "0814-01-01T00:00:00Z",
+        "sitelinks": 158,
+        "wikipedia": "https://en.wikipedia.org/wiki/Abu_Nuwas",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Nuwas.jpg"
+    },
+    {
+        "name": "Abu Nuwas",
+        "description": "8th-century classical Arabic poet",
+        "birth": "0756-01-01T00:00:00Z",
+        "death": "0814-01-01T00:00:00Z",
+        "sitelinks": 158,
+        "wikipedia": "https://en.wikipedia.org/wiki/Abu_Nuwas",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Nuwas.jpg"
+    },
+    {
+        "name": "Timur",
+        "description": "the founder of the Timurid Empire (1370–1405)",
+        "birth": "1336-04-17T00:00:00Z",
+        "death": "1405-02-28T00:00:00Z",
+        "sitelinks": 157,
+        "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg"
+    },
+    {
+        "name": "Timur",
+        "description": "the founder of the Timurid Empire (1370–1405)",
+        "birth": "1336-04-17T00:00:00Z",
+        "death": "1405-02-27T00:00:00Z",
+        "sitelinks": 157,
+        "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg"
+    },
+    {
+        "name": "Timur",
+        "description": "the founder of the Timurid Empire (1370–1405)",
+        "birth": "1336-04-16T00:00:00Z",
+        "death": "1405-02-28T00:00:00Z",
+        "sitelinks": 157,
+        "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg"
+    },
+    {
+        "name": "Timur",
+        "description": "the founder of the Timurid Empire (1370–1405)",
+        "birth": "1336-04-16T00:00:00Z",
+        "death": "1405-02-27T00:00:00Z",
+        "sitelinks": 157,
+        "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20seated%20%28earliest%20known%20portrait%29%2C%20Timurid%20genealogy%2C%201405-1409%2C%20Samarkand%20%28TSMK%2C%20H2152%29.jpg"
+    },
+    {
+        "name": "Thomas Hobbes",
+        "description": "English philosopher (1588–1679)",
+        "birth": "1588-04-05T00:00:00Z",
+        "death": "1679-12-04T00:00:00Z",
+        "sitelinks": 157,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hobbes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Hobbes%20%28portrait%29.jpg"
+    },
+    {
+        "name": "Murasaki Shikibu",
+        "description": "Japanese novelist and poet (c.973–c.1014)",
+        "birth": "0970-01-01T00:00:00Z",
+        "death": "1100-01-01T00:00:00Z",
+        "sitelinks": 156,
+        "wikipedia": "https://en.wikipedia.org/wiki/Murasaki_Shikibu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Murasaki-Shikibu-composing-Genji-Monogatari.png"
+    },
+    {
+        "name": "James Monroe",
+        "description": "president of the United States from 1817 to 1825",
+        "birth": "1758-04-28T00:00:00Z",
+        "death": "1831-07-04T00:00:00Z",
+        "sitelinks": 156,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Monroe%20by%20Gilbert%20Stuart%20c1817.jpg"
+    },
+    {
+        "name": "David Hume",
+        "description": "Scottish philosopher, economist, and historian (1711-1776)",
+        "birth": "1711-05-07T00:00:00Z",
+        "death": "1776-08-25T00:00:00Z",
+        "sitelinks": 156,
+        "wikipedia": "https://en.wikipedia.org/wiki/David_Hume",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Hume%20Ramsay.jpg"
+    },
+    {
+        "name": "Montesquieu",
+        "description": "French philosopher (1689–1755)",
+        "birth": "1689-01-18T00:00:00Z",
+        "death": "1755-02-10T00:00:00Z",
+        "sitelinks": 156,
+        "wikipedia": "https://en.wikipedia.org/wiki/Montesquieu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Montesquieu%201.png"
+    },
+    {
+        "name": "Plutarch",
+        "description": "Greek philosopher and historian (c. AD 46 – after AD 119)",
+        "birth": "0040-01-01T00:00:00Z",
+        "death": "0120-01-01T00:00:00Z",
+        "sitelinks": 156,
+        "wikipedia": "https://en.wikipedia.org/wiki/Plutarch",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plutarch%20head%20only.jpg"
+    },
+    {
+        "name": "Jacques Cartier",
+        "description": "Breton maritime explorer of North America (1491–1557)",
+        "birth": "1492-01-09T00:00:00Z",
+        "death": "1557-09-11T00:00:00Z",
+        "sitelinks": 155,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Cartier",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Cartier%201851-1852.jpg"
+    },
+    {
+        "name": "John Milton",
+        "description": "English poet and civil servant (1608–1674)",
+        "birth": "1608-12-09T00:00:00Z",
+        "death": "1674-11-08T00:00:00Z",
+        "sitelinks": 155,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John-milton.jpg"
+    },
+    {
+        "name": "Seneca",
+        "description": "Roman Stoic philosopher, statesman and dramatist (c. 4 BCE–65 CE)",
+        "birth": "-0004-01-01T00:00:00Z",
+        "death": "0065-04-10T00:00:00Z",
+        "sitelinks": 155,
+        "wikipedia": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duble%20herma%20of%20Socrates%20and%20Seneca%20Antikensammlung%20Berlin%2007.jpg"
+    },
+    {
+        "name": "Joseph Haydn",
+        "description": "Austrian composer (1732–1809)",
+        "birth": "1732-03-31T00:00:00Z",
+        "death": "1809-05-31T00:00:00Z",
+        "sitelinks": 154,
+        "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Haydn%2C%20m%C3%A5lning%20av%20Thomas%20Hardy%20fr%C3%A5n%201792.jpg"
+    },
+    {
+        "name": "Euripides",
+        "description": "Classical Athenian playwright",
+        "birth": "-0480-01-01T00:00:00Z",
+        "death": "-0406-01-01T00:00:00Z",
+        "sitelinks": 154,
+        "wikipedia": "https://en.wikipedia.org/wiki/Euripides",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Euripides%20Pio-Clementino%20Inv302.jpg"
+    },
+    {
+        "name": "George Frideric Handel",
+        "description": "German-British Baroque composer (1685–1759)",
+        "birth": "1685-03-05T00:00:00Z",
+        "death": "1759-04-14T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frideric%20Handel%20by%20Balthasar%20Denner.jpg"
+    },
+    {
+        "name": "Constantine the Great",
+        "description": "Roman emperor from 306 to 337 and first to convert to Christianity (272–337)",
+        "birth": "0272-02-27T00:00:00Z",
+        "death": "0337-05-23T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Gaius%20Flavius%20Valerius%20Constantinus%2C%20Palatino.jpg"
+    },
+    {
+        "name": "Saladin",
+        "description": "Sultan of Egypt and founder of the Ayyubid dynasty (1137–1193)",
+        "birth": "1138-01-01T00:00:00Z",
+        "death": "1193-03-11T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Saladin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Nasir%20I%20Salah%20al-Din%20Yusuf%20%28Saladin%29.%20AH%20564-589%20%281169-1193%20CE%29%20%C3%86%20Dirham%20%2830.1mm%2C%2013.28%20g%2C%206h%29.%20Without%20mint-name.%20Dated%20AH%20586%20%28AD%201190-91%29.%20Sultan%20sitting%20facing%2C%20cross-legged%2C%20on%20high-backed%20throne%20%28obverse%29.jpg"
+    },
+    {
+        "name": "Saint Peter",
+        "description": "apostle of Jesus Christ",
+        "birth": "0000-01-01T00:00:00Z",
+        "death": "0065-01-01T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Saint_Peter",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope-peter%20pprubens.jpg"
+    },
+    {
+        "name": "Rumi",
+        "description": "Sufi and Persian poet",
+        "birth": "1207-09-30T00:00:00Z",
+        "death": "1273-12-17T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Rumi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mevlana-celaleddin-i-rumi-1.jpg"
+    },
+    {
+        "name": "Erasmus",
+        "description": "Dutch Renaissance humanist, Catholic priest, and theologian",
+        "birth": "1466-11-06T00:00:00Z",
+        "death": "1536-07-22T00:00:00Z",
+        "sitelinks": 153,
+        "wikipedia": "https://en.wikipedia.org/wiki/Erasmus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Holbein-erasmus.jpg"
+    },
+    {
+        "name": "Democritus",
+        "description": "Greek philosopher (c. 460–c. 370 BC)",
+        "birth": "-0460-01-01T00:00:00Z",
+        "death": "-0360-01-01T00:00:00Z",
+        "sitelinks": 152,
+        "wikipedia": "https://en.wikipedia.org/wiki/Democritus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Unknown%20greek%20pushkin.jpg"
+    },
+    {
+        "name": "Suleiman the Magnificent",
+        "description": "the tenth and greatest Sultan of Ottoman Empire (1520–1566)",
+        "birth": "1494-11-15T00:00:00Z",
+        "death": "1566-09-06T00:00:00Z",
+        "sitelinks": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EmperorSuleiman.jpg"
+    },
+    {
+        "name": "Catherine II of Russia",
+        "description": "The eighth and greatest Emperor of Russia (r. 1762–1796)",
+        "birth": "1729-05-02T00:00:00Z",
+        "death": "1796-11-17T00:00:00Z",
+        "sitelinks": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20II%20after%20Roslin%2C%20Rokotov%20%281780s%2C%20Kunsthistorisches%20Museum%29.jpg"
+    },
+    {
+        "name": "Aeschylus",
+        "description": "ancient Athenian playwright",
+        "birth": "-0524-01-01T00:00:00Z",
+        "death": "-0455-01-01T00:00:00Z",
+        "sitelinks": 151,
+        "wikipedia": "https://en.wikipedia.org/wiki/Aeschylus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aeschylusathens.jpg"
+    },
+    {
+        "name": "Umar ibn Al-Khattāb",
+        "description": "2nd Rashidun Caliph from 634 to 644",
+        "birth": "0586-01-01T00:00:00Z",
+        "death": "0644-11-06T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Umar",
+        "image": null
+    },
+    {
+        "name": "Giovanni Boccaccio",
+        "description": "Italian author and poet (1313–1375)",
+        "birth": "1313-01-01T00:00:00Z",
+        "death": "1375-12-29T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Boccaccio",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boccaccio%20by%20Morghen.jpg"
+    },
+    {
+        "name": "Giordano Bruno",
+        "description": "Italian Dominican friar, philosopher and mathematician (1548–1600)",
+        "birth": "1548-01-01T00:00:00Z",
+        "death": "1600-02-17T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Giordano%20Bruno%20in%20%22Opere%22%20Wellcome%20L0015152%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Alī ibn Abī Ṭālib",
+        "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
+        "birth": "0599-03-19T00:00:00Z",
+        "death": "0661-01-01T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hazrat%20Ali%20slays%20Marhab.JPG"
+    },
+    {
+        "name": "Alī ibn Abī Ṭālib",
+        "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
+        "birth": "0599-03-19T00:00:00Z",
+        "death": "0661-01-01T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Public%20Library%2C%20Spencer%20Collection%20Turk.%20MS.%203%20Siyar-i%20Nab%C3%AE%20fol.%20378r%20Ali%20mounted%20on%20his%20blue%20mule.jpg"
+    },
+    {
+        "name": "Alī ibn Abī Ṭālib",
+        "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
+        "birth": "0599-03-19T00:00:00Z",
+        "death": "0661-01-01T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/83%20Imam%20Ali%20searching%20of%20Doldol%20from%20Khavaran%20Nameh.jpg"
+    },
+    {
+        "name": "Alī ibn Abī Ṭālib",
+        "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
+        "birth": "0599-03-19T00:00:00Z",
+        "death": "0661-01-01T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chronology%20of%20Ancient%20Nations%2C%20f.162r%20miniature.jpg"
+    },
+    {
+        "name": "Alī ibn Abī Ṭālib",
+        "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
+        "birth": "0599-03-19T00:00:00Z",
+        "death": "0661-01-01T00:00:00Z",
+        "sitelinks": 150,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/British%20Library%20MS%20Oriental%207238%2C%20fol.%209v%20Maktel-i%20Ali%20Resul%20The%20swearing%20of%20allegiance%20to%20Ali%20at%20Kufa%20after%20the%20murder%20of%20Osman.jpg"
+    },
+    {
+        "name": "Denis Diderot",
+        "description": "French Enlightenment philosopher writer and encyclopædist (1713–1784)",
+        "birth": "1713-10-05T00:00:00Z",
+        "death": "1784-07-31T00:00:00Z",
+        "sitelinks": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Diderot%20-%20Alix%20-%20Vanloo.png"
+    },
+    {
+        "name": "Zheng He",
+        "description": "Chinese mariner, explorer, and diplomat",
+        "birth": "1371-01-01T00:00:00Z",
+        "death": "1435-01-01T00:00:00Z",
+        "sitelinks": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zheng_He",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2016%20Malakka%2C%20Stadhuys%20%2809%29.jpg"
+    },
+    {
+        "name": "Zheng He",
+        "description": "Chinese mariner, explorer, and diplomat",
+        "birth": "1371-01-01T00:00:00Z",
+        "death": "1433-01-01T00:00:00Z",
+        "sitelinks": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zheng_He",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2016%20Malakka%2C%20Stadhuys%20%2809%29.jpg"
+    },
+    {
+        "name": "Zheng He",
+        "description": "Chinese mariner, explorer, and diplomat",
+        "birth": "1371-01-01T00:00:00Z",
+        "death": "1435-01-01T00:00:00Z",
+        "sitelinks": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zheng_He",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zheng%20He.jpg"
+    },
+    {
+        "name": "Zheng He",
+        "description": "Chinese mariner, explorer, and diplomat",
+        "birth": "1371-01-01T00:00:00Z",
+        "death": "1433-01-01T00:00:00Z",
+        "sitelinks": 148,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zheng_He",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zheng%20He.jpg"
+    },
+    {
+        "name": "Cyrus the Great",
+        "description": "founder of the Achaemenid Empire (559–529 BC)",
+        "birth": "-0599-01-01T00:00:00Z",
+        "death": "-0529-01-01T00:00:00Z",
+        "sitelinks": 147,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Men%20and%20Famous%20Women%20Volume%201%20-%20Cyrus%20the%20Great.png"
+    },
+    {
+        "name": "Aristophanes",
+        "description": "Classical Athenian comic playwright (c. 446 – c. 386 BC)",
+        "birth": "-0444-01-01T00:00:00Z",
+        "death": "-0384-01-01T00:00:00Z",
+        "sitelinks": 147,
+        "wikipedia": "https://en.wikipedia.org/wiki/Aristophanes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Aristophanes.jpg"
+    },
+    {
+        "name": "Epicurus",
+        "description": "ancient Greek philosopher",
+        "birth": "-0341-01-01T00:00:00Z",
+        "death": "-0269-01-01T00:00:00Z",
+        "sitelinks": 146,
+        "wikipedia": "https://en.wikipedia.org/wiki/Epicurus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epikouros%20BM%201843.jpg"
+    },
+    {
+        "name": "Sappho",
+        "description": "ancient Greek poet from Lesbos (c. 630-c. 570 BC)",
+        "birth": "-0650-01-01T00:00:00Z",
+        "death": "-0569-01-01T00:00:00Z",
+        "sitelinks": 145,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sappho",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20Sappho%20Musei%20Capitolini%20MC1164.jpg"
+    },
+    {
+        "name": "Jean de La Fontaine",
+        "description": "French poet, fabulist and writer (1621–1695)",
+        "birth": "1621-07-08T00:00:00Z",
+        "death": "1695-04-13T00:00:00Z",
+        "sitelinks": 145,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Millot%20-%20Jean%20de%20La%20Fontaine%20-%20A%20II%20792%20-%20Finnish%20National%20Gallery.jpg"
+    },
+    {
+        "name": "Martin Van Buren",
+        "description": "president of the United States from 1837 to 1841",
+        "birth": "1782-12-05T00:00:00Z",
+        "death": "1862-07-24T00:00:00Z",
+        "sitelinks": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Van%20Buren.jpg"
+    },
+    {
+        "name": "Heraclitus",
+        "description": "Greek philosopher (late 6th/early 5th-century BC)",
+        "birth": "-0534-01-01T00:00:00Z",
+        "death": "-0470-01-01T00:00:00Z",
+        "sitelinks": 144,
+        "wikipedia": "https://en.wikipedia.org/wiki/Heraclitus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%27%20Rezzonico%20-%20Eraclito%201705%20-%20Giuseppe%20Torretti.jpg"
+    },
+    {
+        "name": "Tacitus",
+        "description": "Roman historian and senator (c. 56 – c. 120)",
+        "birth": "0055-01-01T00:00:00Z",
+        "death": "0120-01-01T00:00:00Z",
+        "sitelinks": 143,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tacitus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tacitus%2C%20Cornelius%20%2850%20-%20116%29.jpg"
+    },
+    {
+        "name": "Zachary Taylor",
+        "description": "president of the United States from 1849 to 1850",
+        "birth": "1784-11-24T00:00:00Z",
+        "death": "1850-07-09T00:00:00Z",
+        "sitelinks": 142,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zachary%20Taylor%202.jpg"
+    },
+    {
+        "name": "James K. Polk",
+        "description": "President of the United States from 1845 to 1849",
+        "birth": "1795-11-02T00:00:00Z",
+        "death": "1849-06-15T00:00:00Z",
+        "sitelinks": 142,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_K._Polk",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesKnoxPolk.jpg"
+    },
+    {
+        "name": "James Buchanan",
+        "description": "president of the United States from 1857 to 1861",
+        "birth": "1791-04-23T00:00:00Z",
+        "death": "1868-06-01T00:00:00Z",
+        "sitelinks": 142,
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Buchanan%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Daniel Defoe",
+        "description": "English trader, writer, and journalist (1660–1731)",
+        "birth": "1660-01-01T00:00:00Z",
+        "death": "1731-04-24T00:00:00Z",
+        "sitelinks": 142,
+        "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Defoe",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Defoe%20Kneller%20Style.jpg"
+    },
+    {
+        "name": "Al-Ghazali",
+        "description": "Persian Sunni Muslim scholar and mystic (c.1058–1111)",
+        "birth": "1058-01-01T00:00:00Z",
+        "death": "1111-12-26T00:00:00Z",
+        "sitelinks": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Al-Ghazali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Ghazali.png"
+    },
+    {
+        "name": "Al-Ghazali",
+        "description": "Persian Sunni Muslim scholar and mystic (c.1058–1111)",
+        "birth": "1056-01-01T00:00:00Z",
+        "death": "1111-12-26T00:00:00Z",
+        "sitelinks": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Al-Ghazali",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Ghazali.png"
+    },
+    {
+        "name": "Zoroaster",
+        "description": "founder of Zoroastrianism",
+        "birth": "-0627-01-01T00:00:00Z",
+        "death": "http://www.wikidata.org/.well-known/genid/45baa787a969d926c865a0072022fe3f",
+        "sitelinks": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zoroaster",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zartosht%2030salegee.jpg"
+    },
+    {
+        "name": "Zoroaster",
+        "description": "founder of Zoroastrianism",
+        "birth": "-0627-01-01T00:00:00Z",
+        "death": "-0550-01-01T00:00:00Z",
+        "sitelinks": 141,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zoroaster",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zartosht%2030salegee.jpg"
+    },
+    {
+        "name": "John Keats",
+        "description": "English Romantic poet (1795–1821)",
+        "birth": "1795-10-31T00:00:00Z",
+        "death": "1821-02-23T00:00:00Z",
+        "sitelinks": 140,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Keats%20by%20William%20Hilton%20circa%201822%2002.jpg"
+    },
+    {
+        "name": "Sima Qian",
+        "description": "2nd-century BCE Chinese historian and writer",
+        "birth": "-0144-01-01T00:00:00Z",
+        "death": "-0085-01-01T00:00:00Z",
+        "sitelinks": 140,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sima_Qian",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Si%20maqian.jpg"
+    },
+    {
+        "name": "William Henry Harrison",
+        "description": "president of the United States in 1841",
+        "birth": "1773-02-09T00:00:00Z",
+        "death": "1841-04-04T00:00:00Z",
+        "sitelinks": 140,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Henry%20Harrison%20by%20James%20Reid%20Lambdin%2C%201835.jpg"
+    },
+    {
+        "name": "John Tyler",
+        "description": "president of the United States from 1841 to 1845",
+        "birth": "1790-03-29T00:00:00Z",
+        "death": "1862-01-18T00:00:00Z",
+        "sitelinks": 140,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Tyler",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WHOportTyler.jpg"
+    },
+    {
+        "name": "Percy Bysshe Shelley",
+        "description": "British Romantic poet (1792–1822)",
+        "birth": "1792-08-04T00:00:00Z",
+        "death": "1822-07-08T00:00:00Z",
+        "sitelinks": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Percy%20Bysshe%20Shelley%20by%20Alfred%20Clint.jpg"
+    },
+    {
+        "name": "Francis of Assisi",
+        "description": "Italian Catholic saint, friar, deacon and preacher and founder of the Franciscan Order (1181/2–1226)",
+        "birth": "1182-07-01T00:00:00Z",
+        "death": "1226-10-10T00:00:00Z",
+        "sitelinks": 139,
+        "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/StFrancis%20part.jpg"
+    },
+    {
+        "name": "Ptolemy",
+        "description": "2nd-century Roman mathematician, astronomer, geographer",
+        "birth": "0100-01-01T00:00:00Z",
+        "death": "0170-01-01T00:00:00Z",
+        "sitelinks": 138,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ptolemy",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V78%20D326%20Ptolemy.png"
+    },
+    {
+        "name": "Michel de Montaigne",
+        "description": "French author, philosopher, and statesman (1533–1592)",
+        "birth": "1533-03-10T00:00:00Z",
+        "death": "1592-09-13T00:00:00Z",
+        "sitelinks": 138,
+        "wikipedia": "https://en.wikipedia.org/wiki/Michel_de_Montaigne",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Montaigne-Dumonstier.jpg"
+    },
+    {
+        "name": "Walter Scott",
+        "description": "Scottish novelist, poet and playwright (1771–1832)",
+        "birth": "1771-08-15T00:00:00Z",
+        "death": "1832-09-21T00:00:00Z",
+        "sitelinks": 137,
+        "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Portrait%20of%20Sir%20Walter%20Scott.jpg"
+    },
+    {
+        "name": "Hannibal",
+        "description": "Carthaginian general (247–183/181 BC)",
+        "birth": "-0246-01-01T00:00:00Z",
+        "death": "-0182-01-01T00:00:00Z",
+        "sitelinks": 137,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hannibal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mommsen%20p265.jpg"
+    },
+    {
+        "name": "Chanakya",
+        "description": "4th-century BCE Indian statesman and philosopher",
+        "birth": "-0374-01-01T00:00:00Z",
+        "death": "-0282-01-01T00:00:00Z",
+        "sitelinks": 136,
+        "wikipedia": "https://en.wikipedia.org/wiki/Chanakya",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanakya%20artistic%20depiction.jpg"
+    },
+    {
+        "name": "Du Fu",
+        "description": "Tang dynasty Chinese poet (712–770)",
+        "birth": "0712-01-01T00:00:00Z",
+        "death": "0770-01-01T00:00:00Z",
+        "sitelinks": 136,
+        "wikipedia": "https://en.wikipedia.org/wiki/Du_Fu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dufu.jpg"
+    },
+    {
+        "name": "William Wordsworth",
+        "description": "English Romantic poet (1770–1850)",
+        "birth": "1770-04-07T00:00:00Z",
+        "death": "1850-04-23T00:00:00Z",
+        "sitelinks": 136,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wordsworth%20on%20Helvellyn%20by%20Benjamin%20Robert%20Haydon.jpg"
+    },
+    {
+        "name": "Stendhal",
+        "description": "French writer (1783–1842)",
+        "birth": "1783-01-23T00:00:00Z",
+        "death": "1842-03-23T00:00:00Z",
+        "sitelinks": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/Stendhal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stendhal.jpg"
+    },
+    {
+        "name": "Nero",
+        "description": "fifth and last Roman Emperor of Julio-Claudian dynasty (54–68)",
+        "birth": "0037-12-13T00:00:00Z",
+        "death": "0068-06-07T00:00:00Z",
+        "sitelinks": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/Nero",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nero%20Palatino%20Inv618.jpg"
+    },
+    {
+        "name": "Mimar Sinan",
+        "description": "16th-century Ottoman chief architect and civil engineer",
+        "birth": "1490-01-01T00:00:00Z",
+        "death": "1588-07-17T00:00:00Z",
+        "sitelinks": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mimar_Sinan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mimar%20Sinan%2C%20architecte%20de%20Soliman%20le%20Magnifique.jpg"
+    },
+    {
+        "name": "Alexander von Humboldt",
+        "description": "Prussian geographer, naturalist and explorer (1769–1859)",
+        "birth": "1769-09-14T00:00:00Z",
+        "death": "1859-05-06T00:00:00Z",
+        "sitelinks": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stieler%2C%20Joseph%20Karl%20-%20Alexander%20von%20Humboldt%20-%201843.jpg"
+    },
+    {
+        "name": "John Calvin",
+        "description": "French Protestant reformer (1509–1564)",
+        "birth": "1509-07-20T00:00:00Z",
+        "death": "1564-06-06T00:00:00Z",
+        "sitelinks": 135,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Calvin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Calvin%20Museum%20Catharijneconvent%20RMCC%20s84%20cropped.png"
+    },
+    {
+        "name": "François Rabelais",
+        "description": "16th-century French writer and humanist (1494–1553)",
+        "birth": "1500-01-01T00:00:00Z",
+        "death": "1553-01-01T00:00:00Z",
+        "sitelinks": 133,
+        "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francois%20Rabelais%20-%20Portrait.jpg"
+    },
+    {
+        "name": "Thomas Paine",
+        "description": "American Founding Father, philosopher, and political activist (1737–1809)",
+        "birth": "1737-02-09T00:00:00Z",
+        "death": "1809-06-08T00:00:00Z",
+        "sitelinks": 133,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Paine%20rev1.jpg"
+    },
+    {
+        "name": "Thucydides",
+        "description": "5th-century BC Athenian historian and general",
+        "birth": "-0460-01-01T00:00:00Z",
+        "death": "-0394-01-01T00:00:00Z",
+        "sitelinks": 133,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thucydides",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thucydides%20pushkin01.jpg"
+    },
+    {
+        "name": "Jean-Auguste-Dominique Ingres",
+        "description": "French painter (1780–1867)",
+        "birth": "1780-08-29T00:00:00Z",
+        "death": "1867-01-14T00:00:00Z",
+        "sitelinks": 132,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
+    },
+    {
+        "name": "Thomas More",
+        "description": "English statesman, lawyer and philosopher (1478–1535)",
+        "birth": "1478-02-16T00:00:00Z",
+        "death": "1535-07-16T00:00:00Z",
+        "sitelinks": 132,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%2C%20the%20Younger%20-%20Sir%20Thomas%20More%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Maximilien Robespierre",
+        "description": "French revolutionary lawyer and politician (1758–1794)",
+        "birth": "1758-05-06T00:00:00Z",
+        "death": "1794-07-28T00:00:00Z",
+        "sitelinks": 132,
+        "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robespierre.jpg"
+    },
+    {
+        "name": "Marie Antoinette",
+        "description": "last Queen of France prior to the French Revolution (1755–1793)",
+        "birth": "1755-11-02T00:00:00Z",
+        "death": "1793-10-16T00:00:00Z",
+        "sitelinks": 132,
+        "wikipedia": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Elisabeth%20Vig%C3%A9e-Lebrun%20-%20Marie-Antoinette%20dit%20%C2%AB%20%C3%A0%20la%20Rose%20%C2%BB%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Samuel Johnson",
+        "description": "English writer and lexicographer (1709–1784)",
+        "birth": "1709-09-18T00:00:00Z",
+        "death": "1784-12-13T00:00:00Z",
+        "sitelinks": 131,
+        "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Johnson%20by%20Joshua%20Reynolds.jpg"
+    },
+    {
+        "name": "Joseph Fourier",
+        "description": "French mathematician and physicist (1768 – 1830)",
+        "birth": "1768-03-21T00:00:00Z",
+        "death": "1830-05-16T00:00:00Z",
+        "sitelinks": 131,
+        "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Fourier",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fourier2.jpg"
+    },
+    {
+        "name": "Auguste Comte",
+        "description": "French philosopher, mathematician and sociologist (1798–1857)",
+        "birth": "1798-01-19T00:00:00Z",
+        "death": "1857-09-05T00:00:00Z",
+        "sitelinks": 131,
+        "wikipedia": "https://en.wikipedia.org/wiki/Auguste_Comte",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20dAuguste%20Comte%20%28maison%20dA.%20Comte%2C%20Paris%29%20%282424895050%29.jpg"
+    },
+    {
+        "name": "Galen",
+        "description": "1st-century Greek physician, surgeon and philosopher",
+        "birth": "0129-09-01T00:00:00Z",
+        "death": "0300-01-01T00:00:00Z",
+        "sitelinks": 130,
+        "wikipedia": "https://en.wikipedia.org/wiki/Galen",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Galenus.jpg"
+    },
+    {
+        "name": "Averroes",
+        "description": "Arab Andalusian Muslim writer and philosopher (1126–1198)",
+        "birth": "1126-04-21T00:00:00Z",
+        "death": "1198-12-17T00:00:00Z",
+        "sitelinks": 130,
+        "wikipedia": "https://en.wikipedia.org/wiki/Averroes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Averroes%20in%20C%C3%B3rdoba%2C%20Spain.jpg"
+    },
+    {
+        "name": "Adam Mickiewicz",
+        "description": "Polish national poet, dramatist, essayist, publicist, translator, and political activist (1798-1855)",
+        "birth": "1798-12-24T00:00:00Z",
+        "death": "1855-11-26T00:00:00Z",
+        "sitelinks": 129,
+        "wikipedia": "https://en.wikipedia.org/wiki/Adam_Mickiewicz",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Mickiewicz%20wed%C5%82ug%20dagerotypu%20paryskiego%20z%201842%20roku.jpg"
+    },
+    {
+        "name": "Caligula",
+        "description": "third Roman emperor (37–41)",
+        "birth": "0012-08-29T00:00:00Z",
+        "death": "0041-01-22T00:00:00Z",
+        "sitelinks": 129,
+        "wikipedia": "https://en.wikipedia.org/wiki/Caligula",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Head%20of%20Caligula%20-%20Getty%20Museum%20%2872.AA.155%29.jpg"
+    },
+    {
+        "name": "Titus Livius",
+        "description": "Roman historian (59 BC – AD 17)",
+        "birth": "-0058-01-01T00:00:00Z",
+        "death": "0017-01-01T00:00:00Z",
+        "sitelinks": 129,
+        "wikipedia": "https://en.wikipedia.org/wiki/Livy",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Titus%20Livius.png"
+    },
+    {
+        "name": "Abu Bakr",
+        "description": "1st Rashidun Caliph and father-in-law of Muhammad",
+        "birth": "0573-10-29T00:00:00Z",
+        "death": "0634-08-23T00:00:00Z",
+        "sitelinks": 128,
+        "wikipedia": "https://en.wikipedia.org/wiki/Abu_Bakr",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20bakr2.jpg"
+    },
+    {
+        "name": "Mary Shelley",
+        "description": "English writer (1797–1851)",
+        "birth": "1797-08-30T00:00:00Z",
+        "death": "1851-02-01T00:00:00Z",
+        "sitelinks": 128,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary_Shelley",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Rothwell%20%281800-1868%29%20-%20Mary%20Wollstonecraft%20Shelley%20-%20NPG%201235%20-%20National%20Portrait%20Gallery.jpg"
+    },
+    {
+        "name": "Mary Wollstonecraft",
+        "description": "English writer and intellectual (1759–1797)",
+        "birth": "1759-04-27T00:00:00Z",
+        "death": "1797-09-10T00:00:00Z",
+        "sitelinks": 127,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Wollstonecraft%20by%20John%20Opie%20%28c.%201797%29.jpg"
+    },
+    {
+        "name": "Ferdowsi",
+        "description": "Persian poet, author of Shahnameh (940–1020)",
+        "birth": "0940-01-01T00:00:00Z",
+        "death": "1020-01-01T00:00:00Z",
+        "sitelinks": 127,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ferdowsi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdowsi%20Square%20%28Tehran%29%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Louis XVI of France",
+        "description": "King of France and Navarre (1754-1793)",
+        "birth": "1754-08-23T00:00:00Z",
+        "death": "1793-01-21T00:00:00Z",
+        "sitelinks": 126,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVI",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Ingres-Bourdelle%20-%20Portrait%20de%20Louis%20XVI%20-%20Joseph-Siffred%20Duplessis%20-%20Joconde06070000102.jpg"
+    },
+    {
+        "name": "Louis XVI of France",
+        "description": "King of France and Navarre (1754-1793)",
+        "birth": "1754-08-23T00:00:00Z",
+        "death": "1793-01-21T00:00:00Z",
+        "sitelinks": 126,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVI",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duplessis%20-%20Louis%20XVI%20of%20France%2C%20oval%2C%20Versailles.jpg"
+    },
+    {
+        "name": "Antoine Lavoisier",
+        "description": "French nobleman and chemist (1743–1794)",
+        "birth": "1743-08-26T00:00:00Z",
+        "death": "1794-05-08T00:00:00Z",
+        "sitelinks": 126,
+        "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Portrait%20of%20Monsieur%20Lavoisier%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Xenophon",
+        "description": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+        "birth": "-0429-01-01T00:00:00Z",
+        "death": "-0353-01-01T00:00:00Z",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Xenophon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg"
+    },
+    {
+        "name": "Xenophon",
+        "description": "Greek philosopher, historian, soldier (c. 430–355/354 BC)",
+        "birth": "-0430-01-01T00:00:00Z",
+        "death": "-0353-01-01T00:00:00Z",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Xenophon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Xenophon.jpg"
+    },
+    {
+        "name": "Pliny the Elder",
+        "description": "1st-century Roman military commander and writer",
+        "birth": "0020-01-01T00:00:00Z",
+        "death": "0079-01-01T00:00:00Z",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pliny_the_Elder",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Illustrazione%20del%20Lombardo%20Veneto%20Vol%203%20Plinio%20Secondo%20300dpi.jpg"
+    },
+    {
+        "name": "Fibonacci",
+        "description": "Italian mathematician (c.1170–c.1240/50)",
+        "birth": "1170-01-01T00:00:00Z",
+        "death": "1240-01-01T00:00:00Z",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Fibonacci",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fibonacci5.jpg"
+    },
+    {
+        "name": "Hesiod",
+        "description": "ancient Greek poet of the archaic period",
+        "birth": "-0775-01-01T00:00:00Z",
+        "death": "http://www.wikidata.org/.well-known/genid/fd2cc7dd9dc517f792f1762a0121c54b",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hesiod",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pseudo-Seneca%20BM%20GR1962.8-24.1.jpg"
+    },
+    {
+        "name": "Pierre-Simon Laplace",
+        "description": "French mathematician and astronomer (1749–1827)",
+        "birth": "1749-03-23T00:00:00Z",
+        "death": "1827-03-05T00:00:00Z",
+        "sitelinks": 125,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Simon%2C%20marquis%20de%20Laplace%20%281745-1827%29%20-%20Gu%C3%A9rin.jpg"
+    },
+    {
+        "name": "Lope de Vega",
+        "description": "Spanish playwright and poet (1562-1635)",
+        "birth": "1562-12-05T00:00:00Z",
+        "death": "1635-08-27T00:00:00Z",
+        "sitelinks": 124,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LopedeVega.jpg"
+    },
+    {
+        "name": "Robert Burns",
+        "description": "Scottish poet and lyricist (1759–1796)",
+        "birth": "1759-01-25T00:00:00Z",
+        "death": "1796-07-21T00:00:00Z",
+        "sitelinks": 123,
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Burns",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Burns%201.jpg"
+    },
+    {
+        "name": "Hammurabi",
+        "description": "sixth king of Babylon (r. 1792–1750 BCE)",
+        "birth": "-1809-01-01T00:00:00Z",
+        "death": "-1749-01-01T00:00:00Z",
+        "sitelinks": 123,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hammurabi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F0182%20Louvre%20Code%20Hammourabi%20Bas-relief%20Sb8%20rwk.jpg"
+    },
+    {
+        "name": "Edmund Burke",
+        "description": "Anglo-Irish statesman, political theorist and conservative philosopher (1729–1797)",
+        "birth": "1729-01-12T00:00:00Z",
+        "death": "1797-07-09T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Burke",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20Edmund%20Burke%2C%201729%20-%201797.%20Statesman%2C%20orator%20and%20author%20-%20PG%202362%20-%20National%20Galleries%20of%20Scotland.jpg"
+    },
+    {
+        "name": "Brahmagupta",
+        "description": "Indian mathematician and astronomer (c. 598 – c. 668 CE)",
+        "birth": "0598-01-01T00:00:00Z",
+        "death": "0670-01-01T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Brahmagupta",
+        "image": null
+    },
+    {
+        "name": "Zhu Xi",
+        "description": "Chinese historian, Neoconfucian philosopher, poet, and politician during the Song dynasty (1130–1200)",
+        "birth": "1130-10-25T00:00:00Z",
+        "death": "1200-04-30T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Zhu_Xi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhu%20xi.jpg"
+    },
+    {
+        "name": "Frederick II of Prussia",
+        "description": "King of Prussia from 1740 to 1786 (1712-1786)",
+        "birth": "1712-01-24T00:00:00Z",
+        "death": "1786-08-17T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Great",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Zweite%20Alt.jpg"
+    },
+    {
+        "name": "Nostradamus",
+        "description": "French seer and astrologer (1503–1566)",
+        "birth": "1503-12-24T00:00:00Z",
+        "death": "1566-07-12T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Nostradamus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nostradamus%20by%20Cesar.jpg"
+    },
+    {
+        "name": "Oliver Cromwell",
+        "description": "English military and political leader (1599–1658)",
+        "birth": "1599-05-05T00:00:00Z",
+        "death": "1658-09-13T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Cromwell%20by%20Samuel%20Cooper.jpg"
+    },
+    {
+        "name": "Lucretius",
+        "description": "1st-century BC Roman poet and philosopher",
+        "birth": "-0093-01-01T00:00:00Z",
+        "death": "-0054-01-01T00:00:00Z",
+        "sitelinks": 122,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lucretius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucretius1.png"
+    },
+    {
+        "name": "Charles V",
+        "description": "Holy Roman Emperor from 1519 to 1556 (1500–1558)",
+        "birth": "1500-03-05T00:00:00Z",
+        "death": "1558-10-01T00:00:00Z",
+        "sitelinks": 121,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Charles%20V%2C%20Holy%20Roman%20Emperor%2C%20seated%20%281500%E2%80%931558%29%2C%20formerly%20attributed%20to%20Titian%20%28Alte%20Pinakothek%2C%20Munich%29.jpg"
+    },
+    {
+        "name": "Eugène Delacroix",
+        "description": "French painter (1798–1863)",
+        "birth": "1798-04-26T00:00:00Z",
+        "death": "1863-08-13T00:00:00Z",
+        "sitelinks": 121,
+        "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Portrait%20de%20l%27artiste%20%28ca.1837%29.jpg"
+    },
+    {
+        "name": "Alexander Pope",
+        "description": "English poet (1688–1744)",
+        "birth": "1688-05-31T00:00:00Z",
+        "death": "1744-06-10T00:00:00Z",
+        "sitelinks": 120,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Pope%20by%20Michael%20Dahl.jpg"
+    },
+    {
+        "name": "Samuel Taylor Coleridge",
+        "description": "English poet, literary critic and philosopher (1772–1834)",
+        "birth": "1772-10-21T00:00:00Z",
+        "death": "1834-07-25T00:00:00Z",
+        "sitelinks": 120,
+        "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Taylor%20Coleridge%20at%20age%2042.jpg"
+    },
+    {
+        "name": "Mehmed II",
+        "description": "seventh Sultan of the Ottoman Empire (1444–1446, 1451–1481)",
+        "birth": "1432-04-08T00:00:00Z",
+        "death": "1481-05-12T00:00:00Z",
+        "sitelinks": 120,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_II",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatih%20Sultan%20Mehmed%20Han%20-%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AE%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD.jpg"
+    },
+    {
+        "name": "Tycho Brahe",
+        "description": "Danish astronomer and alchemist, 1546–1601",
+        "birth": "1546-12-24T00:00:00Z",
+        "death": "1601-10-24T00:00:00Z",
+        "sitelinks": 120,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tycho_Brahe",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20av%20Tycho%20Brahe%20-%20Skoklosters%20slott%20-%2090153.tif"
+    },
+    {
+        "name": "Diogenes of Sinope",
+        "description": "4th-century BC Greek Cynic philosopher",
+        "birth": "-0399-01-01T00:00:00Z",
+        "death": "-0322-01-01T00:00:00Z",
+        "sitelinks": 120,
+        "wikipedia": "https://en.wikipedia.org/wiki/Diogenes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diogenes-statue-Sinop-enhanced.jpg"
+    },
+    {
+        "name": "André-Marie Ampère",
+        "description": "French physicist and mathematician (1775–1836)",
+        "birth": "1775-01-20T00:00:00Z",
+        "death": "1836-06-10T00:00:00Z",
+        "sitelinks": 119,
+        "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ampere%20portrait%20at%20the%20Musee%20Poleymieux.jpg"
+    },
+    {
+        "name": "Thomas Carlyle",
+        "description": "Scottish essayist, historian and philosopher (1795–1881)",
+        "birth": "1795-12-04T00:00:00Z",
+        "death": "1881-02-05T00:00:00Z",
+        "sitelinks": 119,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Carlyle",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Carlyle%20by%20Sir%20John%20Everett%20Millais%2C%201st%20Bt.jpg"
+    },
+    {
+        "name": "Catullus",
+        "description": "lyric Latin poet of the Roman Republic",
+        "birth": "-0083-01-01T00:00:00Z",
+        "death": "-0053-01-01T00:00:00Z",
+        "sitelinks": 118,
+        "wikipedia": "https://en.wikipedia.org/wiki/Catullus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catull%20Sirmione.jpg"
+    },
+    {
+        "name": "Francis Drake",
+        "description": "English sailor and privateer (c. 1540 – 1596)",
+        "birth": "1540-01-01T00:00:00Z",
+        "death": "1596-01-28T00:00:00Z",
+        "sitelinks": 118,
+        "wikipedia": "https://en.wikipedia.org/wiki/Francis_Drake",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gheeraerts%20Francis%20Drake%201591.jpg"
+    },
+    {
+        "name": "Christiaan Huygens",
+        "description": "Dutch mathematician, physicist and astronomer (1629–1695)",
+        "birth": "1629-04-14T00:00:00Z",
+        "death": "1695-07-08T00:00:00Z",
+        "sitelinks": 118,
+        "wikipedia": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christiaan-huygens4.jpg"
+    },
+    {
+        "name": "Pericles",
+        "description": "Athenian statesman, orator and general (c. 495 – 429 BC)",
+        "birth": "-0493-01-01T00:00:00Z",
+        "death": "-0428-01-01T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pericles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pericles%20Pio-Clementino%20Inv269.jpg"
+    },
+    {
+        "name": "Alessandro Volta",
+        "description": "Italian physicist, chemist, and pioneer of electricity and power (1745-1827)",
+        "birth": "1745-02-18T00:00:00Z",
+        "death": "1827-03-05T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Volta",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Volta.jpeg"
+    },
+    {
+        "name": "Nagarjuna",
+        "description": "3rd-century Indian Buddhist philosopher",
+        "birth": "0150-01-01T00:00:00Z",
+        "death": "0250-01-01T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Nagarjuna",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagarjuna%20at%20Samye%20Ling%20Monastery.JPG"
+    },
+    {
+        "name": "Attila",
+        "description": "5th-century ruler of the Hunnic Empire",
+        "birth": "0500-01-01T00:00:00Z",
+        "death": "0453-01-01T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Attila",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Attila%20Hunnorum%20Rex%20Flagellum%20Dei%20Aquilejae%20Eversor%20Utini%20Instaurator.jpg"
+    },
+    {
+        "name": "Henry VIII of England",
+        "description": "King of England from 1509 until 1547 (1491–1547)",
+        "birth": "1491-07-07T00:00:00Z",
+        "death": "1547-02-07T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%2C%20the%20Younger%2C%20Around%201497-1543%20-%20Portrait%20of%20Henry%20VIII%20of%20England%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+        "name": "Justinian I",
+        "description": "Eastern Roman Emperor who ruled from 527 to 565 (482-565)",
+        "birth": "0482-05-12T00:00:00Z",
+        "death": "0565-11-16T00:00:00Z",
+        "sitelinks": 117,
+        "wikipedia": "https://en.wikipedia.org/wiki/Justinian_I",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosaic%20of%20Justinianus%20I%20-%20Basilica%20San%20Vitale%20%28Ravenna%29.jpg"
+    },
+    {
+        "name": "Saadi",
+        "description": "Persian poet",
+        "birth": "1210-01-01T00:00:00Z",
+        "death": "1292-12-16T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Saadi_Shirazi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saadi%20by%20Hossein%20Behzad%20%28Inverted%29.jpg"
+    },
+    {
+        "name": "Jean Racine",
+        "description": "French dramatist (1639–1699)",
+        "birth": "1639-12-01T00:00:00Z",
+        "death": "1699-04-21T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean_Racine",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20racine.jpg"
+    },
+    {
+        "name": "Ivan the Terrible",
+        "description": "Tsar and Grand Duke of all Rus' from 1547 to 1584",
+        "birth": "1530-09-04T00:00:00Z",
+        "death": "1584-03-28T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ivan_the_Terrible",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20grozny%20frame.jpg"
+    },
+    {
+        "name": "Ivan the Terrible",
+        "description": "Tsar and Grand Duke of all Rus' from 1547 to 1584",
+        "birth": "1530-08-25T00:00:00Z",
+        "death": "1584-03-28T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ivan_the_Terrible",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20grozny%20frame.jpg"
+    },
+    {
+        "name": "Solon",
+        "description": "Athenian legislator",
+        "birth": "-0629-01-01T00:00:00Z",
+        "death": "-0559-01-01T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Solon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignoto%2C%20c.d.%20solone%2C%20replica%20del%2090%20dc%20ca%20da%20orig.%20greco%20del%20110%20ac.%20ca%2C%206143.JPG"
+    },
+    {
+        "name": "Tiberius",
+        "description": "second Roman Emperor from 14 to 37 AD",
+        "birth": "-0041-11-14T00:00:00Z",
+        "death": "0037-03-14T00:00:00Z",
+        "sitelinks": 116,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tiberius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Tiberius%20Portrait%20of%20the%20%27Imperium%20Maius%27%20type%20in%20Museo%20Archeologico%20Nazionale.jpg"
+    },
+    {
+        "name": "Pierre de Fermat",
+        "description": "French mathematician and lawyer",
+        "birth": "1607-01-01T00:00:00Z",
+        "death": "1665-01-12T00:00:00Z",
+        "sitelinks": 115,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Fermat",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Fermat3.jpg"
+    },
+    {
+        "name": "Epictetus",
+        "description": "Greek Stoic philosopher (c. 50–c. 138)",
+        "birth": "0050-01-01T00:00:00Z",
+        "death": "0138-01-01T00:00:00Z",
+        "sitelinks": 115,
+        "wikipedia": "https://en.wikipedia.org/wiki/Epictetus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epictetus%20from%20L.%20Annaei%20Senecae%20philosophi%20Opera%2C%201605%2C%20title%20page%20detail.png"
+    },
+    {
+        "name": "Charles Babbage",
+        "description": "English mathematician, philosopher, and engineer (1791–1871)",
+        "birth": "1791-12-26T00:00:00Z",
+        "death": "1871-10-18T00:00:00Z",
+        "sitelinks": 115,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_Babbage",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Babbage1.jpg"
+    },
+    {
+        "name": "Trajan",
+        "description": "13th Roman Emperor (98–117)",
+        "birth": "0053-09-16T00:00:00Z",
+        "death": "0117-08-01T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Trajan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Traianus%20Glyptothek%20Munich%20336.jpg"
+    },
+    {
+        "name": "Tutankhamun",
+        "description": "14th century BCE (18th dynasty) Egyptian pharaoh",
+        "birth": "-1340-01-01T00:00:00Z",
+        "death": "-1323-01-01T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Tutankhamun",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tutanchamun%20Maske.jpg"
+    },
+    {
+        "name": "John Dalton",
+        "description": "British chemist and physicist (1766–1844)",
+        "birth": "1766-09-06T00:00:00Z",
+        "death": "1844-07-27T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Dalton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Dalton.%20Line%20engraving%20by%20W.%20H.%20Worthington%2C%201823%2C%20afte%20Wellcome%20V0006489.jpg"
+    },
+    {
+        "name": "Robert Boyle",
+        "description": "Anglo-Irish natural philosopher, chemist, physicist, and inventor",
+        "birth": "1627-01-25T00:00:00Z",
+        "death": "1691-12-31T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Boyle",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shannon%20Portrait%20of%20the%20Hon%20Robert%20Boyle.jpg"
+    },
+    {
+        "name": "Novalis",
+        "description": "German poet and writer (1772-1801)",
+        "birth": "1772-05-02T00:00:00Z",
+        "death": "1801-03-25T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Novalis",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novalis-1.jpg"
+    },
+    {
+        "name": "Amerigo Vespucci",
+        "description": "Italian explorer, financier, navigator and cartographer",
+        "birth": "1454-03-18T00:00:00Z",
+        "death": "1512-03-03T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amerigo%20Vespucci.jpg"
+    },
+    {
+        "name": "Amerigo Vespucci",
+        "description": "Italian explorer, financier, navigator and cartographer",
+        "birth": "1454-03-18T00:00:00Z",
+        "death": "1512-03-03T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amerigo%20Vespucci%20-%20Project%20Gutenberg%20etext%2019997.jpg"
+    },
+    {
+        "name": "Amerigo Vespucci",
+        "description": "Italian explorer, financier, navigator and cartographer",
+        "birth": "1454-03-18T00:00:00Z",
+        "death": "1512-03-03T00:00:00Z",
+        "sitelinks": 114,
+        "wikipedia": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amerigo%20Vespucci01.jpg"
+    },
+    {
+        "name": "El Greco",
+        "description": "Greek artist, painter, sculptor and architect (1541–1614)",
+        "birth": "1541-10-01T00:00:00Z",
+        "death": "1614-04-07T00:00:00Z",
+        "sitelinks": 113,
+        "wikipedia": "https://en.wikipedia.org/wiki/El_Greco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
+    },
+    {
+        "name": "Jean Le Rond d'Alembert",
+        "description": "French mathematician, mechanician, physicist, philosopher and music theorist (1717–1783)",
+        "birth": "1717-11-16T00:00:00Z",
+        "death": "1783-10-29T00:00:00Z",
+        "sitelinks": 113,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean_Le_Rond_d%27Alembert",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Le%20Rond%20d%27Alembert%2C%20by%20French%20school.jpg"
+    },
+    {
+        "name": "William Herschel",
+        "description": "German-born British astronomer and composer (1738–1822)",
+        "birth": "1738-11-15T00:00:00Z",
+        "death": "1822-08-25T00:00:00Z",
+        "sitelinks": 113,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Herschel",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Herschel01.jpg"
+    },
+    {
+        "name": "Johannes Vermeer",
+        "description": "Dutch painter (1632–1675)",
+        "birth": "1632-10-01T00:00:00Z",
+        "death": "1675-01-01T00:00:00Z",
+        "sitelinks": 113,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cropped%20version%20of%20Jan%20Vermeer%20van%20Delft%20002.jpg"
+    },
+    {
+        "name": "Strabo",
+        "description": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+        "birth": "-0062-01-01T00:00:00Z",
+        "death": "0023-01-01T00:00:00Z",
+        "sitelinks": 113,
+        "wikipedia": "https://en.wikipedia.org/wiki/Strabo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Strabo.jpg"
+    },
+    {
+        "name": "Giacomo Leopardi",
+        "description": "Italian noble, poet, philosopher, and writer (1798-1837)",
+        "birth": "1798-06-29T00:00:00Z",
+        "death": "1837-06-14T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Leopardi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giacomo%20Leopardi%20Morelli.jpg"
+    },
+    {
+        "name": "Giovanni Pierluigi da Palestrina",
+        "description": "Italian Renaissance composer (c. 1525–1594)",
+        "birth": "1525-01-01T00:00:00Z",
+        "death": "1594-02-02T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Pierluigi%20da%20Palestrina.jpg"
+    },
+    {
+        "name": "Johann Gottlieb Fichte",
+        "description": "German philosopher (1762–1814)",
+        "birth": "1762-05-19T00:00:00Z",
+        "death": "1814-01-29T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Gottlieb%20Fichte%20by%20Friedrich%20Bury.jpg"
+    },
+    {
+        "name": "Johann Gottlieb Fichte",
+        "description": "German philosopher (1762–1814)",
+        "birth": "1762-05-19T00:00:00Z",
+        "death": "1814-01-27T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Gottlieb%20Fichte%20by%20Friedrich%20Bury.jpg"
+    },
+    {
+        "name": "Parmenides",
+        "description": "late 6th/early 5th century BC Greek pre-Socratic philosopher",
+        "birth": "-0514-01-01T00:00:00Z",
+        "death": "-0469-01-01T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Parmenides",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20%28cropped%29.jpg"
+    },
+    {
+        "name": "Edward Jenner",
+        "description": "English physician, scientist and pioneer of vaccination (1749–1823)",
+        "birth": "1749-05-17T00:00:00Z",
+        "death": "1823-01-26T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Jenner%20by%20James%20Northcote.jpg"
+    },
+    {
+        "name": "Gregory I",
+        "description": "64th Bishop of Rome, Head of the Roman Catholic Church from 590 to 604",
+        "birth": "0540-01-01T00:00:00Z",
+        "death": "0604-03-15T00:00:00Z",
+        "sitelinks": 112,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Gregory%20I%20illustration.jpg"
+    },
+    {
+        "name": "Q590",
+        "description": "16th-century Portuguese poet",
+        "birth": "1525-01-01T00:00:00Z",
+        "death": "1580-06-20T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cam%C3%B5es%2C%20por%20Fern%C3%A3o%20Gomes.jpg"
+    },
+    {
+        "name": "Q590",
+        "description": "16th-century Portuguese poet",
+        "birth": "1524-12-01T00:00:00Z",
+        "death": "1580-06-20T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cam%C3%B5es%2C%20por%20Fern%C3%A3o%20Gomes.jpg"
+    },
+    {
+        "name": "Anaxagoras",
+        "description": "5th-century BC Greek philosopher",
+        "birth": "-0499-01-01T00:00:00Z",
+        "death": "-0427-01-01T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Anaxagoras",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anaxagoras%20Lebiedzki%20Rahl.jpg"
+    },
+    {
+        "name": "Vespasian",
+        "description": "ninth Roman Emperor and founder of the Flavian dynasty (69–79)",
+        "birth": "0009-11-15T00:00:00Z",
+        "death": "0079-06-21T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Vespasian",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20Vespasianus%20in%20Palazzo%20Massimo%20%28Rome%29.jpg"
+    },
+    {
+        "name": "Moshe ben Maimon",
+        "description": "Medieval Jewish philosopher from Spain (1135–1204)",
+        "birth": "1138-04-06T00:00:00Z",
+        "death": "1204-12-20T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Maimonides",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maim%C3%B2nides.jpg"
+    },
+    {
+        "name": "Moshe ben Maimon",
+        "description": "Medieval Jewish philosopher from Spain (1135–1204)",
+        "birth": "1135-04-06T00:00:00Z",
+        "death": "1204-12-20T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Maimonides",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maim%C3%B2nides.jpg"
+    },
+    {
+        "name": "Hypatia",
+        "description": "Greek Neoplatonist philosopher",
+        "birth": "0360-01-01T00:00:00Z",
+        "death": "0415-03-01T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hypatia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hipatia67.jpg"
+    },
+    {
+        "name": "Caravaggio",
+        "description": "Italian painter (1571–1610)",
+        "birth": "1571-09-29T00:00:00Z",
+        "death": "1610-07-18T00:00:00Z",
+        "sitelinks": 111,
+        "wikipedia": "https://en.wikipedia.org/wiki/Caravaggio",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg"
+    },
+    {
+        "name": "Hadrian",
+        "description": "14th Roman Emperor (117–138)",
+        "birth": "0076-01-22T00:00:00Z",
+        "death": "0138-07-09T00:00:00Z",
+        "sitelinks": 110,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hadrian",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20Hadrian%20Musei%20Capitolini%20MC817.jpg"
+    },
+    {
+        "name": "Sandro Botticelli",
+        "description": "Italian painter (1445–1510)",
+        "birth": "1445-01-01T00:00:00Z",
+        "death": "1510-05-27T00:00:00Z",
+        "sitelinks": 110,
+        "wikipedia": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
+    },
+    {
+        "name": "William the Conqueror",
+        "description": "King of England (1066–1087), Duke of Normandy (1035–1087)",
+        "birth": "1028-11-14T00:00:00Z",
+        "death": "1087-09-15T00:00:00Z",
+        "sitelinks": 110,
+        "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20William.jpg"
+    },
+    {
+        "name": "Eratosthenes",
+        "description": "Greek mathematician, geographer, poet, astronomer, librarian and music theorist",
+        "birth": "-0275-01-01T00:00:00Z",
+        "death": "-0193-01-01T00:00:00Z",
+        "sitelinks": 110,
+        "wikipedia": "https://en.wikipedia.org/wiki/Eratosthenes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eratosthenes.jpg"
+    },
+    {
+        "name": "Hildegard of Bingen",
+        "description": "German Benedictine abbess, polymath, mystic and Doctor of Church (1098–1179)",
+        "birth": "1098-01-01T00:00:00Z",
+        "death": "1179-09-24T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hildegard%20von%20Bingen.jpg"
+    },
+    {
+        "name": "Demosthenes",
+        "description": "classical Athenian statesman and orator (384–322 BC)",
+        "birth": "-0383-01-01T00:00:00Z",
+        "death": "-0321-10-07T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Demosthenes",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Demosthenes%20orator%20Louvre.jpg"
+    },
+    {
+        "name": "Philip II of Spain",
+        "description": "King of Spain, Portugal, Naples and Sicily; King consort of England, lived 1527-1598",
+        "birth": "1527-05-31T00:00:00Z",
+        "death": "1598-09-13T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Philip%20II%20of%20Spain%20by%20Sofonisba%20Anguissola%20-%20002b.jpg"
+    },
+    {
+        "name": "Richard I of England",
+        "description": "King of England (reigned 1189–99)",
+        "birth": "1157-09-15T00:00:00Z",
+        "death": "1199-04-13T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20I%20of%20England%20in%20the%20Brief%20Abridgement%20of%20the%20Chronicles%20of%20England.jpg"
+    },
+    {
+        "name": "Anaximander",
+        "description": "pre-Socratic Greek philosopher",
+        "birth": "-0609-01-01T00:00:00Z",
+        "death": "-0545-01-01T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Anaximander",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anaximander.jpg"
+    },
+    {
+        "name": "Clement I",
+        "description": "4th Pope of the Catholic Church",
+        "birth": "0100-01-01T00:00:00Z",
+        "death": "0099-01-01T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Clement_of_Rome",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clemens%20Romanus.jpg"
+    },
+    {
+        "name": "Pius IX",
+        "description": "Pope of the Catholic Church from 1846 to 1878",
+        "birth": "1792-05-13T00:00:00Z",
+        "death": "1878-02-07T00:00:00Z",
+        "sitelinks": 109,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_IX",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pius%20IX%2C%20by%20Adolphe%20Braun%2C%201875.jpg"
+    },
+    {
+        "name": "Charles Perrault",
+        "description": "French author (1628-1703)",
+        "birth": "1628-01-12T00:00:00Z",
+        "death": "1703-05-16T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_Perrault",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Charles%20Perrault%20par%20Charles%20Le%20Brun%20%28d%C3%A9tail%29.jpg"
+    },
+    {
+        "name": "Kublai Khan",
+        "description": "founding emperor of the Yuan dynasty, grandson of Genghis Khan (1215–1294)",
+        "birth": "1215-09-30T00:00:00Z",
+        "death": "1294-02-25T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Kublai_Khan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumKhubilaiPortrait.jpg"
+    },
+    {
+        "name": "George Berkeley",
+        "description": "Irish idealist philosopher and Anglican bishop (1685–1753)",
+        "birth": "1685-03-12T00:00:00Z",
+        "death": "1753-01-14T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Berkeley",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Berkeley%20by%20Jonh%20Smibert.jpg"
+    },
+    {
+        "name": "Jean-Baptiste de Lamarck",
+        "description": "French naturalist (1744-1829)",
+        "birth": "1744-08-01T00:00:00Z",
+        "death": "1829-12-18T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20de%20Lamarck.jpg"
+    },
+    {
+        "name": "Mary, Queen of Scots",
+        "description": "Queen of Scotland from 1542 to 1567 (1542–1587)",
+        "birth": "1542-12-18T00:00:00Z",
+        "death": "1587-02-08T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Queen%20of%20Scots%20Blairs%20Museum.jpg"
+    },
+    {
+        "name": "Washington Irving",
+        "description": "American writer, historian and diplomat (1783-1859)",
+        "birth": "1783-04-03T00:00:00Z",
+        "death": "1859-11-28T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Washington_Irving",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irving-Washington-LOC.jpg"
+    },
+    {
+        "name": "Claudius",
+        "description": "fourth Roman emperor (41–54)",
+        "birth": "-0009-07-30T00:00:00Z",
+        "death": "0054-10-11T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Claudius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Versailles%2C%20salon%20de%20la%20paix%2C%20buste%20d%27empereur%20romain%20%28Claude%29.jpg"
+    },
+    {
+        "name": "Alexander I of Russia",
+        "description": "The tenth Emperor of Russia (1777–1825)",
+        "birth": "1777-12-23T00:00:00Z",
+        "death": "1825-12-01T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Alexander%20I%20of%20Russia%20by%20Alexander%20Molinari%201813.png"
+    },
+    {
+        "name": "Jerome",
+        "description": "4th and 5th-century Catholic and Eastern Orthodox saint and Doctor of the Church",
+        "birth": "0345-01-01T00:00:00Z",
+        "death": "0420-10-01T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jerome",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenico%20ghirlandaio%2C%20san%20girolamo%2001.jpg"
+    },
+    {
+        "name": "Antonie van Leeuwenhoek",
+        "description": "Dutch scientist known as \"the Father of Microbiology\", and one of the first microscopists (1632–1723)",
+        "birth": "1632-10-24T00:00:00Z",
+        "death": "1723-08-26T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Antonie%20van%20Leeuwenhoek%2C%20RP-P-1903-A-23563.jpg"
+    },
+    {
+        "name": "Mikhail Lomonosov",
+        "description": "Russian polymath (1711-1765)",
+        "birth": "1711-11-19T00:00:00Z",
+        "death": "1765-04-15T00:00:00Z",
+        "sitelinks": 108,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Lomonosov",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/M.V.%20Lomonosov%20by%20L.Miropolskiy%20after%20G.C.Prenner%20%281787%2C%20RAN%29.jpg"
+    },
+    {
+        "name": "Carl von Clausewitz",
+        "description": "German-Prussian general and military theorist",
+        "birth": "1780-06-01T00:00:00Z",
+        "death": "1831-11-16T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Carl_von_Clausewitz",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clausewitz.jpg"
+    },
+    {
+        "name": "Protagoras",
+        "description": "Pre-Socratic Greek philosopher (c.490–c.420 BC)",
+        "birth": "-0489-01-01T00:00:00Z",
+        "death": "-0419-01-01T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Protagoras",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salvator%20Rosa%20-%20D%C3%A9mocrite%20et%20Protagoras.jpg"
+    },
+    {
+        "name": "Charles I of England",
+        "description": "monarch of the three kingdoms of England, Scotland, and Ireland (1600-1649)",
+        "birth": "1600-11-29T00:00:00Z",
+        "death": "1649-02-09T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20%281599-1641%29%20-%20Charles%20I%20%281600-1649%29%20-%20RCIN%20404398%20-%20Royal%20Collection.jpg"
+    },
+    {
+        "name": "Empedocles",
+        "description": "5th century BC Greek philosopher",
+        "birth": "-0493-01-01T00:00:00Z",
+        "death": "-0433-01-01T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Empedocles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Empedocles.%20Line%20engraving%2C%201580.%20Wellcome%20V0001766.jpg"
+    },
+    {
+        "name": "Cato the Elder",
+        "description": "Roman politician, soldier and writer (234–149 BC)",
+        "birth": "-0233-01-01T00:00:00Z",
+        "death": "-0148-01-01T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cato_the_Elder",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrizio%20Torlonia.jpg"
+    },
+    {
+        "name": "Cato the Elder",
+        "description": "Roman politician, soldier and writer (234–149 BC)",
+        "birth": "-0233-01-01T00:00:00Z",
+        "death": "-0148-01-01T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cato_the_Elder",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Porcius%20Cato.jpeg"
+    },
+    {
+        "name": "Aisha",
+        "description": "Muhammad's third wife (c. 613/614 – 678)",
+        "birth": "0614-01-01T00:00:00Z",
+        "death": "0678-07-16T00:00:00Z",
+        "sitelinks": 107,
+        "wikipedia": "https://en.wikipedia.org/wiki/Aisha",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Public%20Library%2C%20Spencer%20Collection%20Turk.%20MS.%203%20Siyar-i%20Nab%C3%AE%20fol.%20115r%20Khawlah%20bint%20Hakim%20asks%20Muhammad%20to%20marry%20Aisha.jpg"
+    },
+    {
+        "name": "Maria Theresa of Austria",
+        "description": "ruler of the Habsburg Dominions (1717–1780)",
+        "birth": "1717-05-13T00:00:00Z",
+        "death": "1780-11-29T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Maria_Theresa",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaiserin%20Maria%20Theresia%20%28HRR%29.jpg"
+    },
+    {
+        "name": "Teresa of Ávila",
+        "description": "Roman Catholic saint (1515-1582)",
+        "birth": "1515-04-07T00:00:00Z",
+        "death": "1582-10-15T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Teresa%20de%20Jes%C3%BAs%20%28Museo%20del%20Prado%29.jpg"
+    },
+    {
+        "name": "Guru Nanak",
+        "description": "First Sikh Guru and founder of Sikhism",
+        "birth": "1469-04-24T00:00:00Z",
+        "death": "1539-10-02T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Guru_Nanak",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20painting%20of%20Guru%20Nanak%20from%20Gurdwara%20Baba%20Atal%20Rai.jpg"
+    },
+    {
+        "name": "Alessandro Manzoni",
+        "description": "Italian writer and poet (1785–1873)",
+        "birth": "1785-03-07T00:00:00Z",
+        "death": "1873-05-22T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Hayez%20-%20Ritratto%20di%20Alessandro%20Manzoni.jpg"
+    },
+    {
+        "name": "Paracelsus",
+        "description": "Swiss physician, philosopher, theologian, and alchemist (c. 1493–1541)",
+        "birth": "1493-11-19T00:00:00Z",
+        "death": "1541-10-04T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Paracelsus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus.jpg"
+    },
+    {
+        "name": "Marquis de Sade",
+        "description": "French nobleman, revolutionary politician, philosopher and writer of erotic works",
+        "birth": "1740-06-02T00:00:00Z",
+        "death": "1814-12-02T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Marquis_de_Sade",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marquis%20de%20sade.jpg"
+    },
+    {
+        "name": "Babur",
+        "description": "founder of the Mughal Empire (1526–1530)",
+        "birth": "1483-02-23T00:00:00Z",
+        "death": "1531-01-05T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Babur",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Humayun%20and%20Babur%20%28Late%20Shah%20Jahan%20Album%29%20Babur%20detail.jpg"
+    },
+    {
+        "name": "George III of Great Britain",
+        "description": "King of Great Britain and Ireland from 1760 to 1820 (1738–1820)",
+        "birth": "1738-06-04T00:00:00Z",
+        "death": "1820-01-29T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/George_III",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Allan%20Ramsay%20%281713-84%29%20-%20George%20III%20%281738-1820%29%20-%20RCIN%20405307%20-%20Royal%20Collection.jpg"
+    },
+    {
+        "name": "Armand-Jean du Plessis, duc de Richelieu",
+        "description": "French clergyman, cardinal, noble and statesman (1585-1642)",
+        "birth": "1585-09-09T00:00:00Z",
+        "death": "1642-12-04T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Richelieu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20de%20Richelieu.jpg"
+    },
+    {
+        "name": "Gotthold Ephraim Lessing",
+        "description": "German writer, philosopher, publicist, and art critic (1729–1781)",
+        "birth": "1729-01-22T00:00:00Z",
+        "death": "1781-02-15T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gotthold%20Ephraim%20Lessing%20Kunstsammlung%20Uni%20Leipzig.jpg"
+    },
+    {
+        "name": "Donatello",
+        "description": "Early Renaissance Italian sculptor (1386–1466)",
+        "birth": "1386-01-01T00:00:00Z",
+        "death": "1466-12-13T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Donatello",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Donatello.jpg"
+    },
+    {
+        "name": "Uthman ibn Affan",
+        "description": "Caliph of the Rashidun Caliphate from 644 to 656",
+        "birth": "0575-01-01T00:00:00Z",
+        "death": "0656-06-17T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Uthman",
+        "image": null
+    },
+    {
+        "name": "Uthman ibn Affan",
+        "description": "Caliph of the Rashidun Caliphate from 644 to 656",
+        "birth": "0574-01-01T00:00:00Z",
+        "death": "0656-06-17T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Uthman",
+        "image": null
+    },
+    {
+        "name": "Ignatius of Loyola",
+        "description": "Spanish Catholic priest and theologian (1491–1556)",
+        "birth": "1491-01-01T00:00:00Z",
+        "death": "1556-08-10T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Ignatius%20of%20Loyola%20%281491-1556%29%20Founder%20of%20the%20Jesuits.jpg"
+    },
+    {
+        "name": "Titian",
+        "description": "Italian painter (c.1490–1576)",
+        "birth": "1490-01-01T00:00:00Z",
+        "death": "1576-09-06T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Titian",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
+    },
+    {
+        "name": "Titian",
+        "description": "Italian painter (c.1490–1576)",
+        "birth": "1490-01-01T00:00:00Z",
+        "death": "1576-08-27T00:00:00Z",
+        "sitelinks": 106,
+        "wikipedia": "https://en.wikipedia.org/wiki/Titian",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
+    },
+    {
+        "name": "Pedro Calderón de la Barca",
+        "description": "Spanish dramatist (1600-1681)",
+        "birth": "1600-01-17T00:00:00Z",
+        "death": "1681-05-25T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Primera%20parte%20de%20comedias%20verdaderas%20portrait%20detail.jpg"
+    },
+    {
+        "name": "Louis XV of France",
+        "description": "King of France from 1715 to 1774 (1710–1774)",
+        "birth": "1710-02-15T00:00:00Z",
+        "death": "1774-05-10T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XV",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis-Michel%20van%20Loo%20%28School%20of%29%20-%20Portrait%20of%20Louis%20XV%20-%20Louvre%20-%20INV%206319.jpg"
+    },
+    {
+        "name": "Louis XV of France",
+        "description": "King of France from 1715 to 1774 (1710–1774)",
+        "birth": "1710-02-15T00:00:00Z",
+        "death": "1774-05-10T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XV",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2louisXV.jpg"
+    },
+    {
+        "name": "Louis XV of France",
+        "description": "King of France from 1715 to 1774 (1710–1774)",
+        "birth": "1710-02-15T00:00:00Z",
+        "death": "1774-05-10T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_XV",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LouisXV-Rigaud1FXD.jpg"
+    },
+    {
+        "name": "Akhenaten",
+        "description": "Egyptian pharaoh in 18th Dynasty",
+        "birth": "-1400-01-01T00:00:00Z",
+        "death": "-1335-01-01T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Akhenaten",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GD-EG-Caire-Mus%C3%A9e061.JPG"
+    },
+    {
+        "name": "Horatio Nelson",
+        "description": "British admiral (1758–1805)",
+        "birth": "1758-09-29T00:00:00Z",
+        "death": "1805-10-21T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HoratioNelson1.jpg"
+    },
+    {
+        "name": "Mencius",
+        "description": "Chinese Confucian philosopher (372–289 BC)",
+        "birth": "-0371-01-01T00:00:00Z",
+        "death": "-0288-01-01T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Mencius",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Half%20Portraits%20of%20the%20Great%20Sage%20and%20Virtuous%20Men%20of%20Old%20-%20Meng%20Ke%20%28%E5%AD%9F%E8%BB%BB%29.jpg"
+    },
+    {
+        "name": "Alphonse de Lamartine",
+        "description": "French author, poet and statesman (1790–1869)",
+        "birth": "1790-10-21T00:00:00Z",
+        "death": "1869-02-28T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_de_Lamartine",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20de%20Lamartine%201.jpg"
+    },
+    {
+        "name": "Gioachino Rossini",
+        "description": "Italian opera composer (1792–1868)",
+        "birth": "1792-02-29T00:00:00Z",
+        "death": "1868-11-13T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Composer%20Rossini%20G%201865%20by%20Carjat.jpg"
+    },
+    {
+        "name": "Al-Biruni",
+        "description": "11th-century Persian scholar and polymath (973–1048)",
+        "birth": "0973-09-09T00:00:00Z",
+        "death": "1048-12-15T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Al-Biruni",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Biruni%20Portrait.jpg"
+    },
+    {
+        "name": "Thomas Robert Malthus",
+        "description": "British political economist (1766–1834)",
+        "birth": "1766-02-14T00:00:00Z",
+        "death": "1834-12-23T00:00:00Z",
+        "sitelinks": 105,
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Robert%20Malthus%20Wellcome%20L0069037%20-crop.jpg"
+    }
+]
 
