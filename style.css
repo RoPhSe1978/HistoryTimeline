@@ -13,7 +13,9 @@ body {
     color: white;
     padding: 1.5rem;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    <<<<<<< HEAD box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    =======box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    >>>>>>>77228ef (Initial commit: Timeline project with data)
 }
 
 .app-header h1 {
@@ -38,6 +40,7 @@ h2 {
     margin: 20px auto;
     padding: 0 20px;
 }
+
 /* Instructions area */
 .controls-hint {
     margin-top: 15px;

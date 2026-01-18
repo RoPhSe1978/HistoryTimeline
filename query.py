@@ -8,7 +8,7 @@ def fetch_full_timeline():
     query = """
     SELECT DISTINCT ?person ?personLabel ?description ?birth ?death ?sitelinks ?article ?image WHERE {
       ?person wikibase:sitelinks ?sitelinks .
-      FILTER(?sitelinks > 65)
+      FILTER(?sitelinks > 80)
       
       ?person wdt:P31 wd:Q5 .                
       ?person wdt:P569 ?birth .              
