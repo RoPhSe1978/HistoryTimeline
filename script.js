@@ -90,7 +90,11 @@ async function initTimeline() {
             stack: true,
             horizontalScroll: true,
             zoomKey: 'ctrlKey',
-            maxHeight: '600px',
+            width: '100%',
+            height: '100%',
+            verticalScroll: true,
+            zoomMin: 1000 * 60 * 60 * 24 * 30, // Minimum zoom: ~1 month
+            zoomMax: 1000 * 60 * 60 * 24 * 365 * 10000, // Maximum zoom: 10,000 years
             orientation: 'top',
             margin: { item: 10, axis: 5 }
         };

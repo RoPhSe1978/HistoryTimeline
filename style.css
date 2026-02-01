@@ -101,3 +101,29 @@ a:visited {
 .vis-time-axis {
     background-color: #ebe5b1;
 }
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .app-header {
+        padding: 0.5rem;
+    }
+
+    .app-header h1 {
+        font-size: 1.2rem;
+    }
+
+    .app-header p {
+        display: none;
+    }
+
+    .main-layout {
+        margin: 10px auto;
+        padding: 0 5px;
+    }
+
+    #visualization {
+        /* On mobile, let the timeline take up most of the screen height,
+           subtracting space for the header and controls hint. */
+        height: calc(100vh - 120px);
+    }
+}
